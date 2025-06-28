@@ -1,0 +1,83 @@
+.cookie-banner {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  right: 20px;
+  background: #1c1c1c;
+  color: hsl(0, 0%, 96%);
+  padding: 20px 24px;
+  border-radius: 14px;
+  font-size: 15px;
+  z-index: 9999;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.45);
+  animation: slideUp 0.5s ease-out;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(80px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.cookie-text {
+  flex: 1 1 60%;
+}
+
+.cookie-banner__content {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex: 1;
+}
+
+.cookie-text {
+  flex: 1 1 auto;
+}
+
+.cookie-banner__buttons {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.cookie-banner__buttons button {
+  background: linear-gradient(135deg, #ff416c, #ff4b2b);
+  border: none;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.cookie-banner__buttons button:hover {
+  background: linear-gradient(135deg, #ff5e7a, #ff5c39);
+}
+
+.cookie-banner__buttons #moreInfo {
+  background: #555;
+}
+
+.cookie-banner__buttons #moreInfo:hover {
+  background: #777;
+}
+
+
+@media (max-width: 1054px) {
+  .cookie-banner__content {
+    flex-direction: column;
+    align-items: start;
+  } 
+}

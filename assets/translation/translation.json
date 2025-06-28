@@ -1,0 +1,1479 @@
+{
+  "EN": {
+    "home": "Home",
+    "about_us": "About Us",
+    "show_lineup": "Program Lineup",
+    "news": "News",
+    "info": "Info",
+    "contact_us": "Contact Us",
+    "location": "Location",
+    "enquiry": "Enquiry",
+    "marketing": "Marketing",
+    "privacy_policy": "<span class='icon-plus'></span> privacy & policy",
+    "reach_us": "<span class='icon-contact'></span> Reach Us",
+    "terms_and_conditions": "<span class='icon-plus'></span> terms and conditions",
+    "get_in_touch": "get in touch",
+    "help_text": "We’re Here to Help and Ready to Hear from You",
+    "find_events": "Find Your Events",
+    "full_name": "full name",
+    "email_address": "email address",
+    "phone_number": "phone number",
+    "subject": "subject",
+    "message": "message",
+    "follow_us": "Follow Us",
+    "event_details": "event details",
+    "registration": "Registration",
+    "book_now_tickets": "<i class='fas fa-ticket-alt'></i> Book Now",
+    "time": "time",
+    "event": "event",
+    "artist": "artist",
+    "tickets": "<i class='fas fa-ticket-alt'></i><span> Tickets</span>",
+    "tickets_title": "Tickets",
+    "book_now": "Book Your Tickets",
+    "trailer-title": "Echoes of the Crowd",
+    "trailer-content": "Catch the standout performances and unforgettable scenes from this year’s festival. <br>Watch now on YouTube and feel the vibe all over again!",
+    "explore_artist": "Explore Artists",
+    "discover_stars": "Discover the <br> Stars Lighting Up <span>Our Stage</span>",
+    "media_partner": "Media <span>Partner</span>",
+    "yuvan_event_title": "<img src='assets/img/home/rock.png' alt=''> Upcoming Festival: <span>Summer Festival Reloaded: Night Vibes</span>",
+    "yuvan_event_desc": "🎤 Don't miss the electrifying performance by Yuvan on <strong>August 29|30|31 2025</strong> !",
+    "dont_miss": "Don't Miss a <span>Beat</span>",
+    "newsletter_q": "Got questions, event inquiries, or collab ideas?",
+    "newsletter_reach": "Reach out to Thaalam Media -<br> we’re just a message away from making magic happen!",
+    "lets_connect": "<span class='icon-arrow-circle'></span>Let's Connect",
+    "useful_links": "Useful Links",
+    "coming_soon": "Coming Soon ...",
+    "all_days": "All Days",
+    "early_bird": "Early Bird Tickets",
+    "normal_tickets": "Normal Tickets",
+    "vip_tickets": "VIP tickets",
+    "no_news_header": "No News Available",
+    "no_news_para": "Check back later for the latest updates and announcements from Thaalam Summer Festival!",
+    "countdown": {
+      "days": "days",
+      "hours": "hours",
+      "minutes": "minutes",
+      "seconds": "seconds"
+    },
+    "about_us_page": {
+      "title1": "Thaalam <span>Media</span> - Beyond Broadcasting",
+      "content1": "Voices that cross continents. Beats that build bridges.",
+      "content2": "Welcome to Thaalam Media, a pioneering force with over 20 years of excellence in the media industry. Founded in 2002 in Sri Lanka, we’ve built a powerful presence through our deep-rooted network and have evolved far beyond traditional broadcasting. With over 190 large-scale events under our belt featuring top movie and TV personalities, Thaalam Media stands as a symbol of trust, creativity, and executional brilliance.",
+      "title2": "Thaalam in Switzerland",
+      "content3": "Thaalam FM made history as the first and only Tamil radio station in Switzerland to broadcast using Digital Audio Broadcasting (DAB) technology. Reaching all 26 Cantons, our signal cuts through both landscapes and cultural barriers. For the Tamil community that waited four decades for a voice in their own language, Thaalam is more than radio — it's a cultural revolution. Our high-definition broadcasts reach homes and car radios across the country, with a loyal youth listenership that dominates 80% of the Tamil-speaking demographic."
+    },
+    "who_we_are": {
+      "title": "Who We Are",
+      "list": [
+        "Founders of the first and only multilingual South Asian radio network across all 26 Swiss cantons",
+        "Curators of cultural excellence — from Toronto to Zurich",
+        "Event pioneers, including A.R. Rahman’s historic Swiss concert with 20,000 attendees"
+      ]
+    },
+    "what_we_believe": {
+      "title": "What We Believe",
+      "quote": "Music is memory. It’s migration. It’s identity. We bring South Asia to the global stage — one beat at a time."
+    },
+    "our_vision": {
+      "title_main": "Our Vision",
+      "title_sub": "More Than Music",
+      "intro": "Not just a show — a movement that travels with you, grows with you, and stays with you.",
+      "cards": {
+        "connect_worlds": {
+          "title": "Connect Worlds",
+          "desc": "Our festivals are melting pots where <span class='fw-semibold' style='color: #ffc506;'>Tamil meets techno</span>, <span class='fw-semibold' style='color: #ffc506;'>Bollywood meets EDM</span>, and tradition meets tomorrow."
+        },
+        "empower_artists": {
+          "title": "Empower Artists",
+          "desc": "From legends to newcomers, we <span class='fw-semibold' style='color: #0dcadf;'>amplify diverse South Asian voices</span> on a global stage."
+        },
+        "redefine_entertainment": {
+          "title": "Redefine Cultural Entertainment",
+          "desc": "Not just a show — <span class='fw-semibold' style='color: #ffc506;'>a movement</span> that travels with you, grows with you, and stays with you."
+        }
+      }
+    },
+    "dataProtection": {
+      "title": "Data Protection",
+      "section1Title": "<i class='fas fa-file-contract me-2'></i> 1. Introduction",
+      "section1Content": "<strong>Thaalam Media (\"we\", \"us\", or \"our\")</strong> is committed to protecting your privacy. This <strong>Privacy Policy</strong> explains how we collect, use, disclose, and safeguard your personal data when you visit <a href=\"www.thaalam.ch\" target=\"_blank\">www.thaalam.ch</a> (the \"Website\") or engage with Thaalam's Summer Festival 2025 (the \"Festival\") in Switzerland. By accessing and using our Website, you agree to this Privacy Policy. If you do not agree, please do not use the Website.",
+      "section2Title": "<i class='fas fa-file-contract me-2'></i> 2. Data Controller",
+      "section2Intro": "The data controller responsible for your personal data is:",
+      "section2List": [
+        "Thaalam Media GmbH",
+        "Address: Talakar 41, 8001 Zürich, Switzerland",
+        "Email: <a href='mailto:marketing@thaalam.ch'>marketing@thaalam.ch</a>",
+        "Phone: <a href='tel:+415627944'>+41 41 562 79 44</a>"
+      ],
+      "section3Title": "<i class='fas fa-file-contract me-2'></i> 3. Information We Collect",
+      "section3ContentIntro": "We collect the following types of data:",
+      "section3List": [
+        "<strong>Personal Information:</strong> Includes your name, email address, phone number, billing and shipping address, and payment information when you purchase tickets, sign up for updates, or interact with us through our Website.",
+        "<strong>Non-Personal Data:</strong> Includes your device’s browser type, IP address, geographic location, and browsing history on our Website.",
+        "<strong>Event-Related Information:</strong> We collect data related to your attendance and participation in the Festival, including ticketing preferences, event registration, and user-generated content (e.g., photos, videos, or social media posts).",
+        "<strong>Transaction Data:</strong> We collect details of the tickets you purchase, payment method, and related transaction information."
+      ],
+      "section4Title": "<i class='fas fa-file-contract me-2'></i> 4. How We Use Your Data",
+      "section4ContentIntro": "We use your personal data for the following purposes:",
+      "section4List": [
+        "<strong>Event Management:</strong> To process ticket sales, event registrations, and participation in Festival-related activities.",
+        "<strong>Customer Communication:</strong> To send you updates regarding the event, ticketing information, changes to the schedule, and promotional materials.",
+        "<strong>Personalized Experience:</strong> To tailor your experience on our Website, including sending you content or recommendations based on your preferences.",
+        "<strong>Payment Processing:</strong> To facilitate the processing of payments and manage your purchases or transactions securely.",
+        "<strong>Marketing and Promotions:</strong> To send marketing communications about Thaalam Media GmbH’s products and services. You can opt out of marketing communications at any time.",
+        "<strong>Legal Obligations:</strong> For example, accounting, anti-money laundering, and responding to official requests."
+      ],
+      "section5Title": "<i class='fas fa-file-contract me-2'></i> 5. Legal Basis for Data Processing",
+      "section5ContentIntro": "Under the <strong>Swiss Federal Data Protection Act (FADP)</strong> and the <strong>General Data Protection Regulation (GDPR)</strong>, we rely on the following legal grounds to process your personal data:",
+      "section5List": [
+        "<strong>Consent:</strong> By providing us with your personal data (e.g., subscribing to newsletters or purchasing tickets), you consent to its processing.",
+        "<strong>Contractual Necessity:</strong> The processing of personal data is necessary for the performance of a contract, such as purchasing tickets, attending events, and delivering services.",
+        "<strong>Legitimate Interests:</strong> We may process your data based on our legitimate interests to provide you with relevant marketing or events information, manage user interactions, and improve our Website and services."
+      ],
+      "section6Title": "<i class='fas fa-file-contract me-2'></i> 6. Sharing Your Information",
+      "section6ContentIntro": "We take your privacy seriously. However, we may share your personal data with the following entities:",
+      "section6List": [
+        "<strong>Third-Party Service Providers:</strong> We may share your data with trusted third-party partners for services such as payment processing, website hosting, marketing platforms, customer support, and event logistics.",
+        "<strong>Legal and Regulatory Authorities:</strong> We may disclose your personal data if required by law, such as to comply with a subpoena, legal process, or government request, or to protect the rights and safety of Thaalam Media GmbH, our users, or the public.",
+        "<strong>Business Transfers:</strong> If Thaalam Media GmbH is involved in a merger, acquisition, or sale of assets, your personal data may be transferred as part of the transaction. We will notify you via email or through a prominent notice on our Website in the event of such a change."
+      ],
+      "section7Title": "<i class='fas fa-file-contract me-2'></i> 7. International Data Transfers",
+      "section7Content1": "As <strong>Thaalam Media GmbH</strong> is based in Switzerland, your data may be transferred to, processed, and stored in countries outside of Switzerland, including countries within the European Economic Area (EEA) or in locations where we or our third-party service providers operate. These countries may have different data protection laws from your country of residence.",
+      "section7Content2": "We will ensure that appropriate safeguards are in place for the protection of your data in compliance with Swiss data protection laws, including <strong>Standard Contractual Clauses</strong> for transfers outside of Switzerland or the EEA.",
+      "section8Title": "<i class='fas fa-file-contract me-2'></i> 8. Data Security",
+      "section8Content1": "We take appropriate technical and organizational measures to protect your personal data from unauthorized access, loss, misuse, or alteration. These measures include:",
+      "section8List1": "Encryption of sensitive data (e.g., payment details)",
+      "section8List2": "Secure data storage and backup systems",
+      "section8List3": "Access controls and audits of our systems",
+      "section8Content2": "Despite these efforts, please note that no security measure is 100% secure. While we strive to protect your personal data, we cannot guarantee its absolute security.",
+      "section9Title": "<i class='fas fa-file-contract me-2'></i> 9. Retention of Your Data",
+      "section9Content1": "We will retain your personal data for as long as necessary to fulfill the purposes outlined in this Privacy Policy, or as required by law. For example, we may retain transaction data for tax or accounting purposes, or marketing preferences until you request us to remove or update your information.",
+      "section9Content2": "Once your data is no longer necessary, we will delete or anonymize it in a secure manner.",
+      "section10Title": "<i class='fas fa-file-contract me-2'></i> 10. Your Rights",
+      "section10Content1": "Under Swiss Data Protection Law and the GDPR, you have the following rights regarding your personal data:",
+      "section10Point1": "<strong>Access:</strong> Request a copy of the personal data we hold about you.",
+      "section10Point2": "<strong>Rectification:</strong> Correct any inaccuracies in your personal data.",
+      "section10Point3": "<strong>Erasure:</strong> Request the deletion of your personal data, subject to certain conditions.",
+      "section10Point4": "<strong>Restriction of Processing:</strong> Limit the way we process your personal data in certain circumstances.",
+      "section10Point5": "<strong>Data Portability:</strong> Request a copy of your personal data in a structured, commonly used, and machine-readable format.",
+      "section10Point6": "<strong>Objection:</strong> Object to the processing of your personal data, particularly for direct marketing purposes.",
+      "section10Content2": "To exercise these rights, please contact us at <a href='mailto:marketing@thaalam.ch'>marketing@thaalam.ch</a>.",
+      "section11Title": "<i class='fas fa-file-contract me-2'></i> 11. Cookies and Tracking Technologies",
+      "section11Content1": "We use cookies and similar tracking technologies to enhance your experience on our Website. Cookies are small text files that are placed on your device to remember your preferences, analyze Website traffic, and personalize content.",
+      "section11Content2": "You can control cookies through your browser settings. However, please note that disabling cookies may affect your ability to use certain features on our Website.",
+      "section12Title": "<i class='fas fa-file-contract me-2'></i> 12. Changes to This Privacy Policy",
+      "section12Content": "We may update this Privacy Policy from time to time. When we do, we will post the updated policy on this page and update the “Last Updated” date. Please review this Privacy Policy periodically for any changes.",
+      "section13Title": "<i class='fas fa-file-contract me-2'></i> 13. Contact Us",
+      "section13Content": "If you have any questions or concerns about this Privacy Policy or how we handle your personal data, please contact us at:",
+      "section13Address": "Address: Talakar 41, 8001 Zürich, Switzerland",
+      "section13Email": "Email: <a href='mailto:marketing@thaalam.ch'>marketing@thaalam.ch</a>",
+      "section13Phone": "Phone: <a href='tel:+415627944'>+41 41 562 79 44</a>",
+      "section14Title": "<i class='fas fa-file-contract me-2'></i> Miscellaneous Terms",
+      "section14Content": "<strong>Governing Law:</strong> This Privacy Policy is governed by and construed in accordance with the laws of Switzerland. Any disputes arising from this Privacy Policy shall be resolved in the competent courts of Switzerland."
+    },
+    "terms_condition": {
+      "title": "Terms and Conditions",
+      "section1Title": "<i class='fas fa-file-contract me-2'></i> 1. Introduction",
+      "section1Content1": "Welcome to <strong>Thaalam's Summer Festival 2025</strong> (\"we\", \"us\", or \"our\"). <strong>These Terms and Conditions</strong> (\"Terms\") govern your access to and use of the <strong>Thaalam’s Summer Festival 2025</strong> website located at <a href=\"www.thaalam.ch\" target=\"_blank\">www.thaalam.ch</a> (the \"Website\"). By accessing or using the Website, you agree to comply with these Terms. If you do not agree to these Terms, please refrain from using the Website.",
+      "section1Content2": "These Terms apply to all users, including visitors, guests, and those who purchase tickets or participate in events.",
+      "section2Title": "<i class='fas fa-file-contract me-2'></i> 2. User Registration & Account",
+      "section2Content1": "To access certain features of the Website, such as ticket purchase or exclusive content, you may be required to register for an account. By registering, you agree to:",
+      "section2List1": "Provide accurate, current, and complete information.",
+      "section2List2": "Maintain the security and confidentiality of your account credentials.",
+      "section2List3": "Notify us immediately of any unauthorized access to your account.",
+      "section2Content2": "You are solely responsible for all activities under your account.",
+      "section3Title": "<i class='fas fa-file-contract me-2'></i> 3. Ticket Sales and Purchase",
+      "section3Content1": "By purchasing tickets through the Website, you agree to:",
+      "section3List1": "Provide valid and accurate information during the ticket purchase process.",
+      "section3List2": "Abide by any terms related to the specific ticket package, such as access restrictions and special conditions for VIP or exclusive tickets.",
+      "section3List3": "Understand that all ticket purchases are non-refundable, except as outlined in our Refund Policy.",
+      "section3List4": "Be aware of any restrictions on ticket resale or transfer as detailed on the ticket purchase page.",
+      "section3List5": "Abide by any venue-specific rules, including conduct guidelines and health safety protocols.",
+      "section4Title": "<i class='fas fa-file-contract me-2'></i> 4. Intellectual Property",
+      "section4Content1": "All content on the Website, including text, graphics, logos, images, music, software, and video (collectively, the \"Content\") is the property of <strong> Thaalam Media </strong> or its licensors and is protected by copyright laws. You are granted a limited, non-transferable, and non-exclusive license to access and use the Website for personal and non-commercial purposes.",
+      "section4Content2": "You may not:",
+      "section4List1": "Reproduce, distribute, or modify any Content without explicit permission.",
+      "section4List2": "Use any of the Website's trademarks, logos, or other proprietary information without prior written consent.",
+      "section5Title": "<i class='fas fa-file-contract me-2'></i> 5. Event Policies",
+      "section5Content1": "For festival events, including ticketed access, merchandise, and performances, the following apply:",
+      "section5List1": "The event may be subject to change, including date or time changes, and in such cases, <strong> Thaalam Media </strong> will provide notifications.",
+      "section5List2": "Rules of the venue (e.g., no weapons, drugs, or recording devices) must be followed.",
+      "section5List3": "Attendees are responsible for their own safety, and Thaalam Media is not liable for personal injury, property loss, or damage during the event.",
+      "section5List4": "You may be photographed or recorded during the event. By attending, you consent to the use of your image and voice in promotional materials or social media.",
+      "section6Title": "<i class='fas fa-file-contract me-2'></i> 6. Privacy and Data Collection",
+      "section6Content1": "Our Privacy Policy outlines how we collect, use, and store your personal data. By using the Website, you consent to the practices outlined in the Privacy Policy."
+    },
+    "legal_framework": {
+      "title": "Legal Framework",
+      "legalTitle": "Legal Framework for Thaalam's Summer Festival 2025",
+      "legalOrganizer": "Organized by Thaalam Media GmbH",
+      "legalVenue": "Venue: Amphitheater Hüntwangen, Switzerland",
+      "section1Title": "1. Operation Policies",
+      "section1aTitle": "a. Ticketing & Entry",
+      "section1aPoints": [
+        "All ticket sales are final. No refunds, exchanges, or cancellations except in the event of a full festival cancellation.",
+        "Digital or printed tickets must be presented at the gate. Damaged or altered tickets may not be accepted.",
+        "The organizer reserves the right to deny entry or remove attendees who violate event rules or local laws."
+      ],
+      "section1bTitle": "b. Event Rescheduling or Cancellation",
+      "section1bPoints": [
+        "Thaalam Media GmbH reserves the right to reschedule, relocate, or cancel the event due to circumstances beyond its control, including but not limited to force majeure, artist cancellations, government restrictions, or safety concerns.",
+        "In case of cancellation, ticket holders will be informed of refund or credit procedures."
+      ],
+      "section1cTitle": "c. Artist Lineup & Programming",
+      "section1cPoints": [
+        "Artist appearances are subject to change. Lineup changes do not entitle ticket holders to refunds.",
+        "The organizer will strive to maintain the program integrity but makes no guarantees regarding artist punctuality or set duration."
+      ],
+      "section2Title": "2. Travel & Logistic Policies",
+      "section2aTitle": "a. Travel Responsibility",
+      "section2aPoints": [
+        "All travel arrangements (flights, trains, local transportation, accommodation) are the responsibility of the attendee or artist unless otherwise specified in a written agreement.",
+        "Thaalam Media GmbH is not liable for costs related to travel disruptions, visa issues, or missed connections."
+      ],
+      "section2bTitle": "b. Visa & Entry Requirements",
+      "section2bPoints": [
+        "International attendees are responsible for ensuring they meet Swiss visa and border requirements.",
+        "The event may provide invitation letters upon request for ticket holders requiring visa support."
+      ],
+      "section2cTitle": "c. Venue Access & Transportation",
+      "section2cPoints": [
+        "Public and limited private transportation options will be promoted via the website.",
+        "Public and limited private transportation options will be promoted via the website."
+      ],
+      "section3Title": "3. Audience & Marketing Policy",
+      "section3aTitle": "a. Code of Conduct",
+      "section3aPoints": [
+        "All attendees must behave respectfully toward fellow attendees, artists, and staff.",
+        "Discrimination, harassment, aggressive behavior, or intoxication will not be tolerated. Offenders may be removed without refund."
+      ],
+      "section3bTitle": "b. Media & Image Use",
+      "section3bPoints": [
+        "By entering the festival grounds, attendees consent to being photographed, filmed, or recorded for promotional and archival purposes.",
+        "Thaalam Media GmbH holds full rights to use such material on its media channels, including social media, press, TV, and future promotions."
+      ],
+      "section3cTitle": "c. Promotions & Communications",
+      "section3cPoints": [
+        "Attendees may opt in to receive communications about future events, offers, and merchandise. Email preferences can be managed via unsubscribe links or direct request."
+      ],
+      "section4Title": "4. Environment & Accessibility Policy",
+      "section4aTitle": "a. Environmental Responsibility",
+      "section4aPoints": [
+        "Encouraging recycling and minimizing single-use plastics",
+        "Providing waste-sorting bins across the venue",
+        "Partnering with eco-conscious vendors and suppliers",
+        "Attendees are encouraged to bring reusable bottles and use eco-friendly transport options"
+      ],
+      "section4bTitle": "b. Accessibility",
+      "section4bPoints": [
+        "The venue includes wheelchair-accessible seating and restroom facilities.",
+        "Assistance is available for individuals with disabilities; requests should be made in advance via email (marketing@thaalam.ch)."
+      ],
+      "section5Title": "5. Commerce Policy (Vendors & Exhibitors)",
+      "section5aTitle": "a. Vendor Eligibility",
+      "section5aPoints": [
+        "All vendors (food, craft, merchandise) must apply in advance and receive written approval.",
+        "Priority will be given to businesses that reflect South Asian culture, sustainability, and originality."
+      ],
+      "section5bTitle": "b. Insurance & Permits",
+      "section5bPoints": [
+        "Vendors must hold valid liability insurance and appropriate food or trade licenses as required by Swiss law.",
+        "Health inspections and spot checks may be carried out by event or local authorities."
+      ],
+      "section5cTitle": "c. Setup & Takedown",
+      "section5cPoints": [
+        "Vendors must comply with assigned booth locations, setup schedules, and safety guidelines.",
+        "Non-compliance may result in denial of participation or immediate removal."
+      ],
+      "section6Title": "6. Branding & Intellectual Property Policy",
+      "section6aTitle": "a. Intellectual Property",
+      "section6aPoints": [
+        "All content on the festival website, promotional materials, and merchandise is the intellectual property of Thaalam Media GmbH or its licensed partners.",
+        "Unauthorized reproduction, distribution, or commercial use is strictly prohibited."
+      ],
+      "section6bTitle": "b. Brand Collaborations",
+      "section6bPoints": [
+        "Use of the festival’s name, logo, or associated materials in third-party promotions or advertising is permitted only through written consent from Thaalam Media GmbH."
+      ],
+      "section6cTitle": "c. Artist Rights",
+      "section6cPoints": [
+        "Artists retain ownership of their performances. However, by performing at the event, they grant Thaalam Media GmbH the right to film, stream, and promote their appearance unless otherwise agreed in writing."
+      ],
+      "section7Title": "⚖️ GOVERNING LAW & LIABILITY",
+      "section7Points": [
+        "All policies are governed under the laws of Switzerland.",
+        "Thaalam Media GmbH accepts no responsibility for loss, theft, or damage to personal belongings at the festival.",
+        "Entry to the event constitutes acceptance of all terms listed herein."
+      ]
+    },
+    "privacy_plc": {
+      "title": "Privacy & Policy",
+      "section1Title": "<i class='fas fa-file-contract me-2'></i> 1. Introduction",
+      "section1Content": "Thaalam Media (\"we\", \"us\", or \"our\") is committed to protecting your privacy. This <strong>Privacy Policy</strong> explains how we collect, use, disclose, and safeguard your personal data when you visit <a href=\"www.thaalam.ch\" target=\"_blank\">www.thaalam.ch</a> (the \"Website\"). By using the Website, you consent to the practices described in this Privacy Policy.",
+      "section2Title": "2. Information We Collect",
+      "section2Intro": "We collect information when you interact with our Website, including the following types of data:",
+      "section2Point1": "<strong>Personal Identification Information:</strong> Name, email address, phone number, mailing address, payment information.",
+      "section2Point2": "<strong>Non-Personal Identification Information:</strong> Browser type, operating system, device type, browsing history, IP address, geolocation data.",
+      "section2Point3": "<strong>Transaction Data:</strong> Purchase history, ticket preferences, payment details.",
+      "section3Title": "3. How we use Information",
+      "section3Intro": "We use the information we collect to:",
+      "section3Point1": "Process transactions, manage user accounts, and provide customer support.",
+      "section3Point2": "Provide customer support and respond to inquiries.",
+      "section3Point3": "Personalize your experience on the Website, including content recommendations.",
+      "section3Point4": "Improve the Website’s functionality and security.",
+      "section3Point5": "Send promotional materials, news updates, and marketing messages (you can opt-out at any time).",
+      "section3Point6": "Comply with legal obligations.",
+      "section4Title": "4. Sharing Your Information",
+      "section4Intro": "We may share your information with:",
+      "section4Point1": "<strong>Third-Party Service Providers:</strong> Payment processors, hosting providers, email marketing platforms, etc., to help us run the Website and provide services.",
+      "section4Point2": "<strong>Legal Authorities:</strong> If required by law or to protect our rights, we may disclose your information to comply with legal requests or in case of fraud investigations.",
+      "section4Conclusion": "We do not sell, rent, or trade your personal information to third parties.",
+      "section5Title": "5. Cookies and Tracking Technologies",
+      "section5Paragraph1": "We use <strong>cookies</strong> and similar tracking technologies to enhance your experience on the Website. Cookies are small data files that are placed on your device. They help us analyze traffic, personalize content, and track users' behavior to improve the Website.",
+      "section5Paragraph2": "You can control cookie settings through your browser settings, but disabling cookies may impact your experience on the Website.",
+      "section6Title": "6. Data Security",
+      "section6Paragraph": "We implement appropriate technical and organizational measures to protect your personal data. However, no method of electronic transmission or storage is 100% secure. While we strive to protect your data, we cannot guarantee its absolute security.",
+      "section7Title": "7. Data Retention",
+      "section7Paragraph": "We will retain your personal data only for as long as necessary to fulfill the purposes for which it was collected or as required by law. When your data is no longer needed, it will be securely deleted.",
+      "section8Title": "8. Your Rights",
+      "section8Intro": "You have the following rights regarding your personal data:",
+      "section8Point1": "<strong>Access:</strong> Request a copy of the personal data we hold about you.",
+      "section8Point2": "<strong>Correction:</strong> Update or correct any inaccuracies in your personal data.",
+      "section8Point3": "<strong>Deletion:</strong> Request the deletion of your personal data.",
+      "section8Point4": "<strong>Opt-out:</strong> Unsubscribe from marketing communications at any time.",
+      "section8Contact": "To exercise these rights, please contact us at <a href='mailto:marketing@thaalam.ch'>marketing@thaalam.ch</a>.",
+      "section9Title": "9. International Transfers",
+      "section9Content": "Your personal data may be transferred to and processed in countries outside of Switzerland, where the privacy laws may not offer the same level of protection as those in your country. By using the Website, you consent to the transfer of your data.",
+      "section10Title": "10. Changes to This Privacy Policy",
+      "section10Content": "We may update this Privacy Policy from time to time. When we do, we will post the updated policy on this page and update the “Last Updated” date. Please review this policy periodically for changes.",
+      "section11Title": "11. Contact Us",
+      "section11Content": "If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at: <br><strong>Email:</strong> support@thaalam.ch <br><strong>Phone:</strong> +41 41 562 79 44",
+      "section12Title": "12. Miscellaneous Terms",
+      "section12SubTitle1": "Limitation of Liability:",
+      "section12Content1": "To the fullest extent permitted by law, <strong>Thaalam Media</strong> is not liable for any indirect, incidental, special, or consequential damages resulting from the use or inability to use the Website, including but not limited to data loss, or any damages resulting from third-party actions or services.",
+      "section12SubTitle2": "Governing Law:",
+      "section12Content2": "These Terms and the Privacy Policy will be governed by and construed in accordance with the laws of Switzerland, without regard to its conflict of laws principles.",
+      "section12SubTitle3": "Dispute Resolution:",
+      "section12Content3": "Any dispute arising under or in connection with these Terms or Privacy Policy shall be resolved through binding arbitration in Switzerland.",
+      "section12Note": "This set of <strong>Terms and Conditions</strong> and <strong>Privacy Policy</strong> ensures that the Website is legally protected while providing a <strong>clear, user-friendly experience</strong> for visitors, customers, and event-goers. The language and clauses are specifically designed to comply with applicable privacy laws (e.g., GDPR) and address concerns that users may have while using your services."
+    },
+    "contact_us_page": {
+      "title_address": "Venue Address",
+      "title_phone": "Contact Number",
+      "title_email": "Email Address"
+    },
+    "contact_form": {
+      "tagline": "Get in Touch",
+      "title": "We’re Here to Help and Ready to Hear from You",
+      "full_name": "Full Name *",
+      "phone_number": "Phone Number *",
+      "email_address": "Email Address *",
+      "ticket_id": "Ticket Id *",
+      "message": "Message *",
+      "country": "Country *",
+      "shop_name": "Shop Name *",
+      "category": "Category *",
+      "contact_person": "Contact Person *",
+      "placeholder_name": "Jhon Doe",
+      "placeholder_phone": "+41 79 288 22 71",
+      "placeholder_email": "jhon@doman.com",
+      "placeholder_ticket": "Enter your Ticket ID",
+      "placeholder_message": "Write Your Message",
+      "placeholder_shope_name": "Your Shop Name",
+      "placeholder_category": "Food /Handicraft /Accessories",
+      "placeholder_country": "Switzerland",
+      "submit": "Submit",
+      "ticket_enquiry": "Ticket Enquiry",
+      "stall_enquiry": "Stall Enquiry",
+      "pre-registration": "Pre-Registration",
+      "enter_otp": "Enter OTP",
+      "placeholder_otp": "Enter the OTP sent to your number",
+      "otp_btn": "Send OTP",
+      "complete_registration": "Complete Registration"
+    },
+    "pre_reg": {
+      "title": "Pre-Registrations Benefits",
+      "dont_miss": "Don’t Miss Out!",
+      "exclusive_perks": "Exclusive for Pre-Registered customers",
+      "exclusive_perks_2": "Get exclusive perks before anyone else.",
+      "be_first": "Be the First",
+      "be_first_topic": "Pre-registrants get early access to:",
+      "early_bird": "Early bird sales",
+      "vip_tickets": "VIP tickets",
+      "shuttle_services": "Shuttle services",
+      "members_only": "Members-Only Access",
+      "members_only_text": "Only registered emails will receive private links for claiming pre-reg perks.",
+      "meet_greet": "Meet & Greet Opportunities",
+      "meet_greet_text": "Meet special guests after our main event. Limited spots — only for pre-registered users.",
+      "priority_booking": "Priority Booking",
+      "priority_booking_text": "Skip the line when ticket bookings go live. First come, first served — you get in first!",
+      "deadline": "Deadline: June 25th",
+      "deadline_text": "Pre-register now to unlock all benefits!",
+      "grab_tickets": "Grab your Tickets at <a href='https://www.thaalamsummerfestival.com' target='_blank'>www.Thaalamsummerfestival.com</a>",
+      "view_benefits": "View Benefits",
+      "terms_and_conditions": "Terms and Conditions applied"
+    },
+    "festivalInfo": {
+      "title": "Thaalam Summer Festival",
+      "essentialInfo": "Essential Info for Festival-Goers 🎪🎶",
+      "alcoholPolicy_title": "Alcohol & Age Policy 🍻",
+      "alcoholPolicy_rule1": "No alcohol for anyone under 16.",
+      "alcoholPolicy_rule2": "No spirits or mixed drinks for anyone under 18.",
+      "alcoholPolicy_rule3": "Not sure if you meet the age limit? Bring valid ID — our staff will check!",
+      "wellbeing_title": "Stay Fresh, Stay Safe 🌿",
+      "wellbeing_tip1": "Music, sunshine, dancing — it’s all better when you’re hydrated and well-fed!",
+      "wellbeing_tip2": "Plenty of chill zones are available for you to relax, recharge, and enjoy responsibly",
+      "wristbands_title": "Festival Wristbands 🎟️",
+      "wristbands_info1": "Exchange your ticket for your festival wristband at entry.",
+      "wristbands_info2": "Your wristband = access to the festival + proof of age.",
+      "wristbands_info3": "Wristbands must stay on — damaged or lost bands cannot be replaced.",
+      "wristbands_info4": "With your wristband, you can re-enter the festival anytime.",
+      "accessibility_title": "Accessibility & Companion Tickets ♿",
+      "accessibility_wait": "Detailed information will be shared later. Stay tuned!",
+      "accessibility_info1": "2-for-1 deal for visitors needing a companion.",
+      "accessibility_info2": "Companion tickets are free with valid documentation.",
+      "accessibility_info3": "Book via: support@thaalam.ch — send your official eligibility proof.",
+      "accessibility_info4": "Limited availability — book early, no sales at the door.",
+      "cashless_title": "Cashless Payments 💳",
+      "cashless_note": "Details will update soon.",
+      "safety_title": "Safety First 🚫",
+      "safety_rule1": "No drugs — strictly prohibited by Swiss law.",
+      "safety_rule2": "No drones — enjoy the view, no flying cameras allowed.",
+      "safety_rule3": "Theft? Lost something? Visit the Info Point near the entrance",
+      "safety_rule4": "Too loud? Free earplugs available at bars & Info Points.",
+      "foodDrink_title": "Food & Drink 🍔🥤",
+      "foodDrink_info1": "Get ready for global flavors — food stalls serving everything from street eats to festival classics.",
+      "foodDrink_info1_1": "Want to bring your own drinks? Here’s what’s allowed:",
+      "foodDrink_info2": "✔ 0.5-liter plastic bottles allowed inside the festival grounds.",
+      "foodDrink_info3": "❌ No glass bottles permitted.",
+      "media_title": "Photography & Video 📸",
+      "media_rule1": "Small cameras and smartphones? Yes!",
+      "media_rule2": "Professional equipment? No.",
+      "lostFound_title": "Lost & Found 🔎",
+      "lostFound_note": "Detailed information will be shared later. Stay tuned!",
+      "chargeUp_title": "Charge Up 🔋",
+      "chargeUp_note": "We will inform you at a later date about the charging options for your smartphone at THAALAM’S SUMMER FESTIVAL.",
+      "infoHelp_title": "Info Points & Help Desk ℹ️",
+      "infoHelp_info1": "Questions? Visit our staffed Info Points by the main entrance and wristband check.",
+      "infoHelp_info2": "Contact ahead of time at: info@thaalam.ch",
+      "minors_title": "Minors & Age Rules 👨‍👩‍👧",
+      "minors_rule1": "Under 16? Entry only with parental consent.",
+      "minors_rule2": "Kids under 12: Free entry with an adult.",
+      "minors_rule3": "VIP area: Strictly 18+ only.",
+      "sustainabilityInfo": {
+        "title": "Sustainability 🌍",
+        "intro": "We care for Switzerland’s beautiful landscapes:",
+        "points": {
+          "respectGrounds": "Respect the festival grounds — keep it clean.",
+          "stickToAreas": "Stick to designated areas — protect nearby nature reserves.",
+          "celebrateResponsibly": "Together, let’s celebrate music without harming the environment."
+        }
+      },
+      "transportInfo": {
+        "title": "Taxis & Transport 🚖",
+        "details": "Detailed information will be shared later. Stay tuned!"
+      },
+      "petsPolicy": {
+        "title": "Leave Pets at Home 🐶",
+        "details": "The festival isn’t fun for furry friends — please keep animals safe and sound at home."
+      },
+      "waterStations": {
+        "title": "Water Stations 💧",
+        "details": "Stay hydrated — free drinking water points are located in the festival grounds."
+      },
+      "arrivalInfo": {
+        "title": "Arrival",
+        "train": "Arriving by train",
+        "trainDetails": "All further information will be published at a later date about special trains.",
+        "car": "Arriving by car",
+        "carDetails": "All further information will be published at a later date.",
+        "parking": "Parking",
+        "parkingDetails": "All further information will be published at a later date.",
+        "shuttle": "Shuttle buses",
+        "shuttleDetails": "All further information will be published at a later date."
+      },
+      "sustainabilitySection": {
+        "commitmentTitle": "Our Commitment to Sustainability",
+        "commitmentText": "At Thaalam Summer Festival, it's not just about the music — it's about protecting our planet and creating a responsible, inclusive celebration for everyone. We believe unforgettable experiences and environmental care go hand in hand. Together, with our community, partners, and visitors, we strive to reduce our environmental impact and build a festival that’s as sustainable as it is spectacular.",
+        "ecological": {
+          "title": "💚 Ecological Responsibility",
+          "carbonFootprint": "Reducing Our Carbon Footprint",
+          "carbonFootprintText": "We are committed to cutting greenhouse gas emissions by 50% by 2030. Every step we take moves us towards a greener festival future.",
+          "publicTransport": "Travel Smart — Choose Public Transport",
+          "publicTransportText": "We encourage festivalgoers to arrive by public transport. Thanks to our partners at SBB, enjoy exclusive discounts on train tickets. Free shuttle buses and special train services make it easier to travel sustainably.",
+          "useInfrastructure": "Use What’s Already Here",
+          "useInfrastructureText": "Wherever possible, we use existing infrastructure like water and waste pipelines to minimize additional CO2 emissions.",
+          "foodForAll": "Food for All",
+          "foodForAllText": "Our food stalls proudly offer a growing range of vegetarian and vegan options — delicious, diverse, and planet-friendly.",
+          "treePlanting": "Giving Back to Nature",
+          "treePlantingText": "For every edition of Thaalam, we plant trees in and around the festival grounds, contributing to greener, healthier surroundings.",
+          "recycling": "Recycling and Waste Reduction",
+          "recyclingText": "We provide easy-to-use recycling stations throughout the site. From food stalls to bars — waste separation and minimal plastic use are key to keeping the grounds clean.",
+          "tentDeposit": "Tent Deposit System",
+          "tentDepositText": "To prevent abandoned tents, a CHF 20 tent deposit ensures you take your tent home — less waste, more care.",
+          "ecoMeasures": "Other Eco Measures",
+          "ecoMeasuresText": "Automatic water-saving fixtures, reduced plastic usage, and no physical flyers — go digital for updates."
+        },
+        "economic": {
+          "title": "💡 Economic Responsibility",
+          "greenEnergy": "Green Energy First",
+          "greenEnergyText": "Our festival is powered increasingly by renewable energy. We continuously innovate to integrate more green technologies.",
+          "supportLocal": "Support Local, Think Global",
+          "supportLocalText": "We prioritize working with local vendors and suppliers, promoting regional food and services to support the community and reduce transport emissions.",
+          "smartEnergy": "Smart Energy Use",
+          "smartEnergyText": "Through careful energy planning and efficient systems, we lower electricity consumption while keeping the vibe alive.",
+          "foodWaste": "Fighting Food Waste",
+          "foodWasteText": "Our food partners follow clear guidelines to minimize waste. Awareness campaigns ensure resources are respected and enjoyed, not wasted."
+        },
+        "social": {
+          "title": "🤝 Social Responsibility",
+          "awareness": "Promoting Awareness & Respect",
+          "awarenessText": "We believe in a safe, inclusive, and discrimination-free festival environment. Our Awareness Team is on-site to support, educate, and empower festivalgoers.",
+          "equality": "Equality for All",
+          "equalityText": "We stand for gender equality — in our team, our operations, and across every part of the festival experience.",
+          "accessibility": "Accessibility & Inclusion",
+          "accessibilityText": "We are dedicated to making Thaalam accessible to all. From barrier-free infrastructure to support services, we work to ensure everyone feels welcome.",
+          "consciousCommunity": "Building a Conscious Community",
+          "consciousCommunityText": "Sustainability is a shared journey. Through pre-event tips, on-site info, and post-event feedback, we empower our audience to be active partners in keeping Thaalam environmentally and socially responsible."
+        },
+        "closingLine": "🎶 Thaalam Summer Festival: Music Beyond Borders — Responsibility Beyond the Stage. Together, let’s create memories while protecting our future."
+      },
+      "idCheck": {
+        "title": "ID CHECK",
+        "content": "Age verification will be conducted at the entrance for all attendees aged 16 and above, and 18 and above where applicable. Entry will only be permitted upon presentation of valid official identification (ID card, passport, or driver’s license). Please note that general or half-fare travel cards, as well as school or student ID cards, are not accepted as valid identification."
+      },
+      "admissionMinors": {
+        "title": "ADMISSION FOR MINORS",
+        "content1": "Entry to Thaalam’s Summer Festival is permitted for individuals aged 16 and above. Visitors aged 14 to 15 years may attend if accompanied by a parent or legal guardian, or by providing a completed parental consent form.<a href='/assets/files/form.pdf' download>[Download form here]</a>.",
+        "content2": "Children under 12 years must be accompanied by an adult aged 18 or older. If the accompanying adult is not a parent or legal guardian, a completed parental consent form is required.<a href='/assets/files/form.pdf' download>[Download form here]</a>."
+      },
+      "childrenUnder6": {
+        "title": "CHILDREN UNDER 6 YEARS",
+        "content1": "Children under the age of 6 are granted free entry to Thaalam’s Summer Festival when accompanied by an adult (18+) with a valid ticket. If the accompanying adult is not a parent or legal guardian, a completed parental consent form is required. <a href='/assets/files/form.pdf' download>[Download form here]</a>.",
+        "content2": "We recommended not bringing children under 6 years of age to the festival."
+      },
+      "children6to16": {
+        "title": "CHILDREN AGED 6 TO 16 YEARS",
+        "content": "Children aged between 6 and 12 years are eligible for a 25% discount on ticket prices. Entry requires valid identification, such as a passport or Ausweis document. We recommend avoiding attendance for young children where possible for safety and comfort."
+      },
+      "siteMap": {
+        "title": "SITE MAP",
+        "content": "The festival site map will be published at a later date."
+      },
+      "openingHours": {
+        "title": "FESTIVAL GROUNDS OPENING HOURS",
+        "friday": "Friday, August 29, 2025: 12:00 p.m. – 2:00 a.m.",
+        "saturday": "Saturday, August 30, 2025: 12:00 p.m. – 2:00 a.m.",
+        "sunday": "Sunday, August 31, 2025: 11:00 a.m. – 10:00 p.m."
+      },
+      "personalCare": {
+        "title": "PERSONAL CARE & RESPONSIBILITY",
+        "intro": "We encourage all visitors to enjoy the festival responsibly. Please look after yourself and your friends:",
+        "point1": "Stay hydrated, especially with water.",
+        "point2": "Avoid drugs or unsafe substances.",
+        "point3": "Watch your drinks to prevent tampering (e.g., knockout drops).",
+        "point4": "Use sunscreen and protective clothing to guard against sun and heat exposure.",
+        "point5": "If you feel unwell, seek assistance from security staff or medical personnel immediately."
+      },
+      "sanitary": {
+        "title": "SANITARY FACILITIES",
+        "content": "Clean restroom facilities with flush toilets will be available throughout the festival grounds, maintained regularly by our cleaning team."
+      },
+      "medical": {
+        "title": "MEDICAL SERVICES",
+        "content": "A fully equipped medical team will be present during opening hours. Follow the signs to the medical tent if you require assistance."
+      },
+      "hearing": {
+        "title": "PROTECT YOUR HEARING",
+        "content1": "Thaalam’s Summer Festival complies with legal regulations regarding maximum sound levels. However, exposure to high noise levels, especially near the stages, may still cause hearing damage. We recommend using earplugs, which are available for free at all bars and the information desk.",
+        "content2": "Children should bring age-appropriate hearing protection. The organizer is not liable for hearing damage."
+      },
+      "security": {
+        "title": "SECURITY",
+        "intro": "Police and security personnel will be present across the festival site 24/7. Please follow their instructions at all times.",
+        "instruction": "Keep your valuables secure — the organizer is not responsible for lost or stolen items.",
+        "contact1": "117 – Police",
+        "contact2": "118 – Fire Department",
+        "contact3": "144 – Medical Emergency",
+        "contact4": "140 – Roadside Assistance",
+        "contact5": "143 – Emotional Support Helpline",
+        "contact6": "145 – Poison Control",
+        "emergency": "In the event of an emergency, follow festival announcements, staff instructions, and the marked emergency exit routes."
+      },
+      "tickets": {
+        "title": "TICKETS",
+        "content": "Day passes and VIP tickets are available exclusively via our official webshop: thaalamsummerfestival.com. The organizer accepts no responsibility for tickets purchased outside official sales channels."
+      },
+      "lineup": {
+        "title": "PROGRAM LINE-UP",
+        "content": "The complete festival timetable will be announced soon."
+      },
+      "accommodation": {
+        "title": "ACCOMMODATION",
+        "content": "Accommodation details and options will be announced at a later date."
+      },
+      "crowdsurfing": {
+        "title": "CROWDSURFING",
+        "content": "For safety reasons, crowdsurfing is strictly prohibited."
+      },
+      "photo": {
+        "title": "PHOTO, VIDEO, AND SELFIE STICKS",
+        "content": "Mobile phones are permitted throughout the festival. However, professional photography and video equipment, as well as selfie sticks, gimbals, and similar devices, are prohibited on the premises."
+      },
+      "ticketChecks": {
+        "title": "TICKET CHECKS",
+        "content": "All tickets will be electronically scanned and verified upon entry. Counterfeit, copied, or unauthorized tickets will be confiscated, and entry will be denied. The organizer is not responsible for tickets obtained through unofficial sources."
+      },
+      "ticketRefund": {
+        "title": "TICKET REFUND POLICY",
+        "content1": "All tickets are non-refundable and non-cancellable.",
+        "content2": "An exception applies if the festival is canceled due to COVID-19 or related government restrictions — in such cases, tickets will be refunded.",
+        "content3": "We recommend purchasing ticket protection via our partner Allianz Assistance, which covers illness or quarantine due to COVID-19. This option is available at checkout when purchasing tickets through our webshop."
+      },
+      "vipBenefits": {
+        "title": "VIP BENEFITS",
+        "benefit1": "Complimentary access to the Golden Circle",
+        "benefit2": "Dedicated VIP Entrance",
+        "benefit3": "VIP Parking",
+        "benefit4": "Exclusive VIP Food Area (Food cost not included)",
+        "benefit5": "Covered Premium Shelter",
+        "benefit6": "Comfortable Seating Area",
+        "benefit7": "Best Stage Views",
+        "benefit8": "Private VIP Restrooms",
+        "benefit9": "Premium Bar (prizes not included)",
+        "benefit10": "For the Ilaiyaraaja Show, VIP ticket holders will have seats near the front of the stage."
+      }
+    }
+  },
+  "DE": {
+    "home": "Startseite",
+    "about_us": "Überuns",
+    "show_lineup": "Programmübersicht",
+    "news": "Neuigkeiten",
+    "info": "Informationen",
+    "follow_us": "Folge uns",
+    "contact_us": "Kontaktieren Sie uns",
+    "reach_us": "<span class='icon-contact'></span> Kontaktieren Sie uns",
+    "location": "Standort",
+    "find_events": "Finde deine Events",
+    "enquiry": "Anfrage",
+    "marketing": "Marketing",
+    "privacy_policy": "<span class='icon-plus'></span> Datenschutzerklärung",
+    "terms_and_conditions": "<span class='icon-plus'></span>Allgemeine <br> Geschäftsbedingungen",
+    "get_in_touch": "Kontakt aufnehmen",
+    "help_text": "Wir sind für Sie da und freuen uns auf Ihre Nachricht",
+    "full_name": "Vollständiger Name",
+    "email_address": "E-Mail Adresse",
+    "phone_number": "Telefonnummer",
+    "subject": "Betreff",
+    "message": "Nachricht",
+    "event_details": "Veranstaltungsdetails",
+    "book_now_tickets": "<i class='fas fa-ticket-alt'></i> Jetzt buchen",
+    "trailer-title": "Echos der Menge",
+    "trailer-content": "Erlebe die herausragenden Auftritte und unvergesslichen Momente des diesjährigen Festivals. <br>Schau es dir jetzt auf YouTube an und spüre die Stimmung noch einmal!",
+    "time": "Uhrzeit",
+    "event": "Veranstaltungsdetails",
+    "artist": "Künstler",
+    "registration": "Registrierung",
+    "tickets": "<i class='fas fa-ticket-alt'></i><span> Tickets</span>",
+    "tickets_title": "Tickets",
+    "book_now": "Buchen Sie Ihre Tickets",
+    "explore_artist": "Künstler Entdecken",
+    "discover_stars": "Entdecken Sie <br> die Stars, die unsere Bühne zum <span>Strahlen bringen</span>",
+    "media_partner": "Medien <span>partner</span>",
+    "yuvan_event_title": "<img src='assets/img/home/rock.png' alt=''> Nächstes Festival: <span>Summer Festival Reloaded: Nachtstimmung</span>",
+    "yuvan_event_desc": "🎤 Verpassen Sie nicht den elektrisierenden Auftritt von Yuvan am <strong>August 29|30|31 2025</strong>!",
+    "dont_miss": "Verpassen Sie keinen <span>Beat</span>",
+    "newsletter_q": "Fragen, Veranstaltungsanfragen oder Kollaborationsideen?",
+    "newsletter_reach": "Kontaktieren Sie Thaalam Media -<br> wir sind nur eine Nachricht entfernt, um Magie zu schaffen!",
+    "lets_connect": "<span class='icon-arrow-circle'></span>Jetzt Verbinden",
+    "useful_links": "Nützliche Links",
+    "coming_soon": "Binnenkort Beschikbaar ...",
+    "all_days": "Alle Tage",
+    "early_bird": "Frühbuchertickets",
+    "normal_tickets": "Normale Tickets",
+    "vip_tickets": "VIP-Tickets",
+    "no_news_header": "Keine News verfügbar",
+    "no_news_para": "Schauen Sie später noch einmal vorbei, um die neuesten Updates und Ankündigungen vom Thaalam Summer Festival zu erhalten!",
+    "countdown": {
+      "days": "Tage",
+      "hours": "Stunden",
+      "minutes": "Minuten",
+      "seconds": "Sekunden"
+    },
+    "about_us_page": {
+      "title1": "Thaalam <span>Media</span> – Mehr als Rundfunk ",
+      "content1": "Stimmen, die Kontinente verbinden. Beats, die Brücken bauen.",
+      "content2": "Willkommen bei Thaalam Media, einer wegweisenden Kraft mit über 20 Jahren Exzellenz in der Medienbranche. Gegründet 2002 in Sri Lanka, haben wir uns durch ein tief verwurzeltes Netzwerk etabliert und uns weit über den traditionellen Rundfunk hinausentwickelt. Mit über 190 Grossveranstaltungen mit führenden Film- und TV-Persönlichkeiten steht Thaalam Media für Vertrauen, Kreativität und aussergewöhnliche Umsetzungskompetenz.",
+      "title2": "Thaalam in der Schweiz",
+      "content3": "Thaalam FM schrieb Geschichte als erste und einzige tamilische Radiostation in der Schweiz, die über Digital Audio Broadcasting (DAB) sendet. Mit Reichweite in allen 26 Kantonen durchbricht unser Signal geografische und kulturelle Grenzen. Für die tamilische Gemeinschaft, die vier Jahrzehnte auf eine Stimme in ihrer Sprache gewartet hat, ist Thaalam mehr als nur Radio. Es ist eine kulturelle Revolution. Unsere hochauflösenden Sendungen erreichen Haushalte und Autoradios im ganzen Land, wobei die junge Hörerschaft rund 80 % der tamilischsprachigen Bevölkerung ausmacht. "
+    },
+    "who_we_are": {
+      "title": "Wer wir sind",
+      "list": [
+        "Gründer des ersten und einzigen mehrsprachigen südasiatischen Radionetzwerks mit Sendungen in allen 26 Schweizer Kantonen.",
+        "Kuratoren kultureller Exzellenz; von Toronto bis Zürich.",
+        "Pioniere bedeutender Veranstaltungen, darunter A.R. Rahmans historisches Konzert in der Schweiz mit 20.000 Besuchern."
+      ]
+    },
+    "what_we_believe": {
+      "title": "Woran wir glauben",
+      "quote": "Musik ist Erinnerung. Sie ist Migration. Sie ist Identität. Wir bringen Südasien auf die Weltbühne – Beat für Beat."
+    },
+    "our_vision": {
+      "title_main": "Unsere Vision",
+      "title_sub": "Mehr als Musik",
+      "intro": "Nicht nur eine Show, sondern eine Bewegung, die dich begleitet, mit dir wächst und bei dir bleibt.",
+      "cards": {
+        "connect_worlds": {
+          "title": "Welten verbinden",
+          "desc": "Unsere Festivals sind Schmelztiegel, in denen <span class='fw-semibold' style='color: #ffc506;'>Tamil auf Techno</span>, <span class='fw-semibold' style='color: #ffc506;'>Bollywood auf EDM</span> und Tradition auf Zukunft trifft."
+        },
+        "empower_artists": {
+          "title": "Künstler stärken",
+          "desc": "Von Legenden bis zu Newcomern; wir <span class='fw-semibold' style='color: #0dcadf;'>verstärken vielfältige südasiatische Stimmen</span> auf der Weltbühne."
+        },
+        "redefine_entertainment": {
+          "title": "Kulturelle Unterhaltung neu definieren",
+          "desc": "Nicht nur eine Show, sondern <span class='fw-semibold' style='color: #ffc506;'>eine Bewegung</span>, die dich begleitet, mit dir wächst und bei dir bleibt."
+        }
+      }
+    },
+    "dataProtection": {
+      "title": "Datenschutz",
+      "section1Title": "<i class='fas fa-file-contract me-2'></i> 1. Einleitung",
+      "section1Content": "<strong>Thaalam Media (\"wir\", \"uns\" oder \"unser\")</strong> verpflichtet sich, Ihre Privatsphäre zu schützen. Diese <strong>Datenschutzerklärung</strong> erläutert, wie wir Ihre personenbezogenen Daten erfassen, verwenden, offenlegen und schützen, wenn Sie <a href=\"www.thaalam.ch\" target=\"_blank\">www.thaalam.ch</a> (die \"Website\") besuchen oder mit dem Thaalam Summer Festival 2025 (dem \"Festival\") in der Schweiz interagieren. Durch den Zugriff auf und die Nutzung unserer Website erklären Sie sich mit dieser Datenschutzerklärung einverstanden. Wenn Sie nicht einverstanden sind, bitten wir Sie, die Website nicht zu nutzen.",
+      "section2Title": "<i class='fas fa-file-contract me-2'></i> 2. Verantwortliche Stelle",
+      "section2Intro": "Verantwortlich für Ihre personenbezogenen Daten ist:",
+      "section2List": [
+        "Thaalam Media GmbH",
+        "Adresse: Talakar 41, 8001 Zürich, Schweiz",
+        "E-Mail: <a href='mailto:marketing@thaalam.ch'>marketing@thaalam.ch</a>",
+        "Telefon: <a href='tel:+415627944'>+41 41 562 79 44</a>"
+      ],
+      "section3Title": "<i class='fas fa-file-contract me-2'></i> 3. Erhobene Daten",
+      "section3ContentIntro": "Wir erfassen folgende Datenarten:",
+      "section3List": [
+        "<strong>Persönliche Informationen:</strong> Name, E-Mail, Telefonnummer, Rechnungs- und Lieferadresse, Zahlungsdaten bei Ticketkauf oder Registrierung.",
+        "<strong>Nicht-personenbezogene Daten:</strong> Browsertyp, IP-Adresse, Standort und Nutzungsverlauf auf unserer Website.",
+        "<strong>Veranstaltungsbezogene Informationen:</strong> Ticketpräferenzen, Registrierungen, nutzergenerierte Inhalte (Fotos, Videos, Posts).",
+        "<strong>Transaktionsdaten:</strong> Details Ihrer Käufe und verwendeten Zahlungsmethoden."
+      ],
+      "section4Title": "<i class='fas fa-file-contract me-2'></i> 4. Verwendung Ihrer Daten",
+      "section4ContentIntro": "Wir nutzen Ihre Daten für folgende Zwecke:",
+      "section4List": [
+        "<strong>Veranstaltungsverwaltung:</strong> Tickets, Registrierungen und Teilnahme.",
+        "<strong>Kundenkommunikation:</strong> Updates, Änderungen, Werbematerialien.",
+        "<strong>Personalisierung:</strong> Inhalte und Empfehlungen.",
+        "<strong>Zahlungsabwicklung:</strong> Sichere Transaktionen.",
+        "<strong>Marketing:</strong> Informationen zu unseren Angeboten (Abmeldung jederzeit möglich).",
+        "<strong>Rechtliche Verpflichtungen:</strong> z. B. Buchhaltung, Anti-Geldwäsche, Behördenanfragen."
+      ],
+      "section5Title": "<i class='fas fa-file-contract me-2'></i> 5. Rechtsgrundlage für die Datenverarbeitung",
+      "section5ContentIntro": "Gemäss <strong>DSG</strong> und <strong>DSGVO</strong> stützen wir die Datenverarbeitung auf:",
+      "section5List": [
+        "<strong>Einwilligung:</strong> z. B. bei Newsletteranmeldung.",
+        "<strong>Vertragserfüllung:</strong> z. B. bei Ticketkauf oder Eventteilnahme.",
+        "<strong>Berechtigte Interessen:</strong> z. B. Websiteoptimierung oder Kundenservice."
+      ],
+      "section6Title": "<i class='fas fa-file-contract me-2'></i> 6. Weitergabe Ihrer Daten",
+      "section6ContentIntro": "Ihre Daten können weitergegeben werden an:",
+      "section6List": [
+        "<strong>Drittanbieter:</strong> z. B. für Zahlung, Hosting, Marketing, Support, Logistik.",
+        "<strong>Behörden:</strong> z. B. zur Erfüllung gesetzlicher Verpflichtungen oder zum Schutz von Rechten.",
+        "<strong>Geschäftstransaktionen:</strong> z. B. bei Fusion, Übernahme oder Verkauf."
+      ],
+      "section7Title": "<i class='fas fa-file-contract me-2'></i> 7. Internationale Datenübermittlung",
+      "section7Content1": "Ihre Daten können in Länder ausserhalb der Schweiz übermittelt und verarbeitet werden, inkl. EU-Staaten oder Länder mit anderen Datenschutzgesetzen.",
+      "section7Content2": "Es gelten geeignete Schutzmassnahmen (z. B. Standardvertragsklauseln), um den Schutz Ihrer Daten gemäss den Schweizer Datenschutzgesetzen zu gewährleisten.",
+      "section8Title": "<i class='fas fa-file-contract me-2'></i> 8. Datensicherheit",
+      "section8Content1": "Wir setzen technische und organisatorische Massnahmen zum Schutz Ihrer Daten ein:",
+      "section8List1": "Verschlüsselung sensibler Informationen",
+      "section8List2": "Sichere Speicherung und Backups",
+      "section8List3": "Zugriffskontrollen und Audits",
+      "section8Content2": "Bitte beachten Sie, dass kein System 100 % sicher ist.",
+      "section9Title": "<i class='fas fa-file-contract me-2'></i> 9. Aufbewahrung Ihrer Daten",
+      "section9Content1": "Wir bewahren Ihre Daten nur so lange auf, wie es für die genannten Zwecke oder gesetzlich notwendig ist.",
+      "section9Content2": "Danach werden sie sicher gelöscht oder anonymisiert.",
+      "section10Title": "<i class='fas fa-file-contract me-2'></i> 10. Ihre Rechte",
+      "section10Content1": "Sie haben gemäss DSG und DSGVO folgende Rechte:",
+      "section10Point1": "<strong>Auskunft:</strong> Über Ihre Daten",
+      "section10Point2": "<strong>Berichtigung:</strong> Korrektur unrichtiger Daten",
+      "section10Point3": "<strong>Löschung:</strong> (unter bestimmten Bedingungen)",
+      "section10Point4": "<strong>Einschränkung der Verarbeitung:</strong> Begrenzen der Datenverarbeitung unter bestimmten Umständen",
+      "section10Point5": "<strong>Datenübertragbarkeit:</strong> Erhalt Ihrer Daten in einem strukturierten, gängigen und maschinenlesbaren Format",
+      "section10Point6": "<strong>Widerspruch:</strong> Gegen die Verarbeitung Ihrer Daten, insbesondere für Direktwerbung",
+      "section10Content2": "Kontaktieren Sie uns unter <a href='mailto:marketing@thaalam.ch'>marketing@thaalam.ch</a>.",
+      "section11Title": "<i class='fas fa-file-contract me-2'></i> 11. Cookies und Tracking-Technologien",
+      "section11Content1": "Wir nutzen Cookies und ähnliche Tracking-Technologien, um Ihre Erfahrung auf unserer Website zu verbessern. Cookies sind kleine Textdateien, die auf Ihrem Gerät abgelegt werden, um Ihre Einstellungen zu speichern, den Website-Verkehr zu analysieren und Inhalte zu personalisieren.",
+      "section11Content2": "Sie können Cookies über Ihre Browsereinstellungen steuern. Bitte beachten Sie jedoch, dass das Deaktivieren von Cookies Ihre Fähigkeit beeinträchtigen kann, bestimmte Funktionen auf unserer Website zu nutzen",
+      "section12Title": "<i class='fas fa-file-contract me-2'></i> 12. Änderungen dieser Datenschutzerklärung",
+      "section12Content": "Diese Datenschutzerklärung kann aktualisiert werden. Änderungen werden auf dieser Seite veröffentlicht.",
+      "section13Title": "<i class='fas fa-file-contract me-2'></i> 13. Kontakt",
+      "section13Content": "Fragen zur Datenschutzerklärung richten Sie bitte an:",
+      "section13Address": "Adresse: Talakar 41, 8001 Zürich, Schweiz",
+      "section13Email": "E-Mail: <a href='mailto:marketing@thaalam.ch'>marketing@thaalam.ch</a>",
+      "section13Phone": "Telefon: <a href='tel:+415627944'>+41 41 562 79 44</a>",
+      "section14Title": "<i class='fas fa-file-contract me-2'></i> Sonstige Bestimmungen",
+      "section14Content": "<strong>Anwendbares Recht:</strong> Diese Erklärung unterliegt dem Recht der Schweiz. Zuständig sind die Gerichte in der Schweiz."
+    },
+    "terms_condition": {
+      "title": "Allgemeine Geschäftsbedingungen ",
+      "section1Title": "<i class='fas fa-file-contract me-2'></i> 1. Einleitung",
+      "section1Content1": "Willkommen zum <strong>Thaalam Summer Festival 2025</strong> („wir“, „uns“ oder „unser“). Diese <strong>Allgemeinen Geschäftsbedingungen</strong> („AGB“) regeln Ihren Zugriff auf und die Nutzung der Website <a href=\"www.thaalam.ch\" target=\"_blank\">www.thaalam.ch</a> (die „Website“). Durch die Nutzung der Website erklären Sie sich mit diesen Bedingungen einverstanden. Wenn Sie nicht einverstanden sind, bitten wir Sie, die Nutzung zu unterlassen.",
+      "section1Content2": "Diese Bedingungen gelten für alle Benutzer, einschließlich Besucher, Gäste und diejenigen, die Tickets kaufen oder an Veranstaltungen teilnehmen.",
+      "section2Title": "<i class='fas fa-file-contract me-2'></i> 2. Benutzerregistrierung & Konto",
+      "section2Content1": "Für bestimmte Funktionen (z. B. Ticketkauf oder exklusive Inhalte) müssen Sie ein Konto anlegen. Mit der Registrierung verpflichten Sie sich:",
+      "section2List1": "korrekte und aktuelle Daten anzugeben",
+      "section2List2": "Ihre Zugangsdaten sicher aufzubewahren",
+      "section2List3": "uns über unbefugten Zugriff sofort zu informieren",
+      "section2Content2": "Sie sind für alle Aktivitäten in Ihrem Konto verantwortlich.",
+      "section3Title": "<i class='fas fa-file-contract me-2'></i> 3. Ticketverkauf und Käufe",
+      "section3Content1": "Beim Kauf von Tickets über die Website erklären Sie sich einverstanden:",
+      "section3List1": "gültige und richtige Angaben zu machen",
+      "section3List2": "spezifische Bedingungen für bestimmte Ticketarten (z. B. VIP) einzuhalten",
+      "section3List3": "zu akzeptieren, dass alle Käufe nicht erstattbar sind, ausser laut Rückerstattungsrichtlinie",
+      "section3List4": "etwaige Weiterverkaufs- oder Übertragungsbeschränkungen zu beachten",
+      "section3List5": "die Vorschriften des Veranstaltungsorts (z. B. Verhaltensregeln, Sicherheitsvorgaben) einzuhalten",
+      "section4Title": "<i class='fas fa-file-contract me-2'></i> 4. Geistiges Eigentum",
+      "section4Content1": "Alle Inhalte auf der Website (Texte, Bilder, Logos, Musik, Software, Videos etc.) sind Eigentum von Thaalam Media oder lizenzierten Partnern und urheberrechtlich geschützt. Sie erhalten eine eingeschränkte, nicht übertragbare, nicht exklusive Lizenz zur privaten Nutzung.",
+      "section4Content2": "Es ist untersagt:",
+      "section4List1": "Inhalte ohne Genehmigung zu vervielfältigen, verbreiten oder verändern",
+      "section4List2": "Marken oder geschützte Informationen ohne Zustimmung zu verwenden",
+      "section5Title": "<i class='fas fa-file-contract me-2'></i> 5. Veranstaltungsrichtlinien",
+      "section5Content1": "Für Veranstaltungen gelten folgende Bestimmungen:",
+      "section5List1": "Änderungen von Datum/Zeit sind möglich, Nutzer werden benachrichtigt",
+      "section5List2": "Regeln des Veranstaltungsortes (z. B. keine Waffen, Drogen, Aufzeichnungsgeräte) müssen befolgt werden",
+      "section5List3": "Besucher haften für ihre eigene Sicherheit – Thaalam Media haftet nicht für Schäden oder Verluste",
+      "section5List4": "Durch Teilnahme erklären Sie sich mit Foto- oder Videoaufnahmen für Werbezwecke einverstanden",
+      "section6Title": "<i class='fas fa-file-contract me-2'></i> 6. Datenschutz und Datenerfassung",
+      "section6Content1": "Unsere Datenschutzerklärung erläutert, wie wir Ihre Daten erfassen und nutzen. Durch Nutzung der Website stimmen Sie dieser zu."
+    },
+    "legal_framework": {
+      "title": "Rechtlicher Rahmen",
+      "legalTitle": "Rechtlicher Rahmen für das Thaalam Summer Festival 2025",
+      "legalOrganizer": "Veranstaltet von Thaalam Media GmbH",
+      "legalVenue": "Veranstaltungsort: Amphitheater Hüntwangen, Schweiz",
+      "section1Title": "1. BETRIEBSRICHTLINIEN",
+      "section1aTitle": "a. Ticketverkauf & Einlass",
+      "section1aPoints": [
+        "Alle Ticketverkäufe sind endgültig. Rückerstattungen, Umtausch oder Stornierungen sind ausgeschlossen, es sei denn, das gesamte Festival wird abgesagt.",
+        "Tickets (digital oder ausgedruckt) müssen am Einlass vorgezeigt werden. Beschädigte oder veränderte Tickets können abgelehnt werden.",
+        "Der Veranstalter behält sich das Recht vor, Personen den Zutritt zu verweigern oder vom Gelände zu entfernen, sofern sie gegen Veranstaltungsregeln oder geltende Gesetze verstossen."
+      ],
+      "section1bTitle": "b. Verschiebung oder Absage der Veranstaltung",
+      "section1bPoints": [
+        "Die Thaalam Media GmbH behält sich das Recht vor, die Veranstaltung bei unvorhersehbaren Umständen (höhere Gewalt, Absage von Künstlern, behördliche Auflagen, Sicherheitsbedenken etc.) zu verschieben, zu verlegen oder abzusagen.",
+        "Im Falle einer Absage werden die Ticketinhaber über Rückerstattungen oder Gutschriften informiert."
+      ],
+      "section1cTitle": "c. Künstler-Line-up & Programmgestaltung",
+      "section1cPoints": [
+        "Änderungen im Künstleraufgebot sind vorbehalten. Ein Anspruch auf Rückerstattung aufgrund von Programmänderungen besteht nicht.",
+        "Der Veranstalter bemüht sich um Programmstabilität, übernimmt jedoch keine Garantie für Pünktlichkeit oder Dauer von Auftritten."
+      ],
+      "section2Title": "2. REISEN & LOGISTIK",
+      "section2aTitle": "a. Reiseverantwortung",
+      "section2aPoints": [
+        "Die Anreise (Flüge, Bahn, lokale Transfers, Unterkünfte) obliegt dem Teilnehmer oder Künstler, sofern nicht vertraglich anders geregelt.",
+        "Die Thaalam Media GmbH haftet nicht für Kosten durch Reiseunterbrechungen, Visa-Probleme oder verpasste Anschlüsse."
+      ],
+      "section2bTitle": "b. Visa- & Einreisebestimmungen",
+      "section2bPoints": [
+        "Internationale Gäste sind selbst dafür verantwortlich, die Visa- und Einreisebedingungen der Schweiz zu erfüllen.",
+        "Einladungsschreiben zur Visabeantragung können auf Anfrage für Ticketinhaber ausgestellt werden."
+      ],
+      "section2cTitle": "c. Anreise zum Veranstaltungsort & Transportmittel",
+      "section2cPoints": [
+        "Informationen zu öffentlichen Verkehrsmitteln und eingeschränkt verfügbaren privaten Anreisemöglichkeiten werden auf der Website veröffentlicht.",
+        "Informationen zu öffentlichen Verkehrsmitteln und eingeschränkt verfügbaren privaten Anreisemöglichkeiten werden auf der Website veröffentlicht."
+      ],
+      "section3Title": "3. PUBLIKUMS- & MARKETINGRICHTLINIEN",
+      "section3aTitle": "a. Verhaltenskodex",
+      "section3aPoints": [
+        "Alle Teilnehmer müssen respektvoll gegenüber anderen Gästen, Künstlern und dem Personal auftreten.",
+        "Diskriminierung, Belästigung, aggressives Verhalten oder übermässiger Alkoholkonsum werden nicht toleriert und können zum Ausschluss ohne Rückerstattung führen."
+      ],
+      "section3bTitle": "b. Medien- & Bildrechte",
+      "section3bPoints": [
+        "Mit Betreten des Festivalgeländes erklären sich Besucher damit einverstanden, fotografiert, gefilmt oder aufgenommen zu werden.",
+        "Thaalam Media GmbH erhält sämtliche Rechte zur Nutzung des Bildmaterials für Werbe- und Archivzwecke auf ihren Kanälen (u. a. Social Media, Presse, TV, künftige Promotionen)."
+      ],
+      "section3cTitle": "c. Werbung & Kommunikation",
+      "section3cPoints": [
+        "Teilnehmer können dem Erhalt von Informationen zu zukünftigen Veranstaltungen, Angeboten und Merchandise zustimmen. Abmeldungen sind über E-Mail-Links oder auf Anfrage möglich."
+      ],
+      "section4Title": "4. UMWELT & BARRIEREFREIHEIT",
+      "section4aTitle": "a. Umweltverantwortung",
+      "section4aPoints": [
+        "Das Festival fördert Nachhaltigkeit durch:",
+        "Bereitstellung von Abfalltrennungssystemen auf dem Gelände",
+        "Kooperation mit umweltbewussten Anbietern",
+        "Teilnehmer werden ermutigt, wiederverwendbare Trinkflaschen mitzubringen und umweltfreundliche Transportmittel zu nutzen."
+      ],
+      "section4bTitle": "b. Barrierefreiheit",
+      "section4bPoints": [
+        "Das Veranstaltungsgelände bietet rollstuhlgerechte Sitzplätze und sanitäre Einrichtungen.",
+        "Unterstützung für Menschen mit Behinderungen ist nach vorheriger Anfrage per E-Mail (marketing@thaalam.ch) verfügbar."
+      ],
+      "section5Title": "5. HANDELSPOLITIK (VERKÄUFER & AUSSTELLER)",
+      "section5aTitle": "a. Teilnahmeberechtigung",
+      "section5aPoints": [
+        "Alle Händler (Gastronomie, Handwerk, Merchandise) müssen sich im Voraus bewerben und eine schriftliche Genehmigung erhalten.",
+        "Vorrang haben Anbieter mit Bezug zur südasiatischen Kultur, Nachhaltigkeit und Originalität."
+      ],
+      "section5bTitle": "b. Versicherung & Genehmigungen",
+      "section5bPoints": [
+        "Händler müssen über eine gültige Haftpflichtversicherung sowie über alle gesetzlich vorgeschriebenen Lizenzen und Genehmigungen verfügen.",
+        "Gesundheits- und Sicherheitskontrollen können durch Behörden oder den Veranstalter erfolgen."
+      ],
+      "section5cTitle": "c. Aufbau & Abbau",
+      "section5cPoints": [
+        "Händler müssen sich an die zugewiesenen Standorte, Aufbauzeiten und Sicherheitsvorgaben halten.",
+        "Verstösse können zum Ausschluss oder sofortigen Platzverweis führen."
+      ],
+      "section6Title": "6. MARKEN- & URHEBERRECHT",
+      "section6aTitle": "a. Geistiges Eigentum",
+      "section6aPoints": [
+        "Alle Inhalte der Festival-Website, Werbematerialien und Merchandise-Produkte sind geistiges Eigentum der Thaalam Media GmbH oder ihrer Lizenzpartner.",
+        "Jegliche unautorisierte Nutzung, Vervielfältigung oder kommerzielle Verwertung ist strengstens untersagt."
+      ],
+      "section6bTitle": "b. Markenpartnerschaften",
+      "section6bPoints": [
+        "Die Nutzung des Festivalnamens, Logos oder zugehöriger Materialien in Drittwerbung ist nur mit schriftlicher Genehmigung der Thaalam Media GmbH erlaubt."
+      ],
+      "section6cTitle": "c. Künstlerrechte",
+      "section6cPoints": [
+        "Künstler behalten das Urheberrecht an ihren Darbietungen. Mit dem Auftritt beim Festival räumen sie der Thaalam Media GmbH jedoch das Recht ein, diese Auftritte zu filmen, zu streamen und zu bewerben – sofern nicht schriftlich anders vereinbart."
+      ],
+      "section7Title": "⚖️ GELTENDES RECHT & HAFTUNG",
+      "section7Points": [
+        "Alle Bestimmungen unterliegen dem Schweizer Recht.",
+        "Thaalam Media GmbH übernimmt keine Haftung für Verlust, Diebstahl oder Beschädigung persönlicher Gegenstände während des Festivals.",
+        "Mit Betreten der Veranstaltung gelten alle genannten Bedingungen als akzeptiert."
+      ]
+    },
+    "privacy_plc": {
+      "title": "Datenschutzrichtlinie",
+      "section1Title": "<i class='fas fa-file-contract me-2'></i> 1. Einführung",
+      "section1Content": "Thaalam Media (\"wir\", \"uns\" oder \"unser\") verpflichtet sich zum Schutz Ihrer Privatsphäre. Diese <strong>Datenschutzerklärung</strong> erläutert, wie wir Ihre personenbezogenen Daten erheben, verwenden, offenlegen und schützen, wenn Sie <a href=\"www.thaalam.ch\" target=\"_blank\">www.thaalam.ch</a> (die \"Website\") besuchen. Durch die Nutzung der Website stimmen Sie den in dieser Datenschutzerklärung beschriebenen Praktiken zu.",
+      "section2Title": "2. Informationen, die wir sammeln",
+      "section2Intro": "Wir erfassen Informationen, wenn Sie mit unserer Website interagieren, einschließlich folgender Datenarten:",
+      "section2Point1": "<strong>Personenbezogene Identifikationsinformationen:</strong> Name, E-Mail-Adresse, Telefonnummer, Postanschrift, Zahlungsinformationen.",
+      "section2Point2": "<strong>Nicht personenbezogene Identifikationsinformationen:</strong> Browsertyp, Betriebssystem, Gerätetyp, Browserverlauf, IP-Adresse, Geolokalisierungsdaten.",
+      "section2Point3": "<strong>Transaktionsdaten:</strong> Kaufhistorie, Ticketpräferenzen, Zahlungsdetails.",
+      "section3Title": "3. Wie wir Informationen verwenden",
+      "section3Intro": "Wir verwenden die gesammelten Informationen, um:",
+      "section3Point1": "Transaktionen abzuwickeln, Benutzerkonten zu verwalten und Kundensupport bereitzustellen.",
+      "section3Point2": "Kundensupport zu leisten und Anfragen zu beantworten.",
+      "section3Point3": "Ihr Erlebnis auf der Website zu personalisieren, einschließlich Inhaltsempfehlungen.",
+      "section3Point4": "Die Funktionalität und Sicherheit der Website zu verbessern.",
+      "section3Point5": "Werbematerialien, Neuigkeiten und Marketingnachrichten zu senden (Sie können sich jederzeit abmelden).",
+      "section3Point6": "Gesetzliche Verpflichtungen einzuhalten.",
+      "section4Title": "4. Weitergabe Ihrer Informationen",
+      "section4Intro": "Wir können Ihre Informationen weitergeben an:",
+      "section4Point1": "<strong>Drittanbieter-Dienstleister:</strong> Zahlungsabwickler, Hosting-Anbieter, E-Mail-Marketing-Plattformen usw., um uns bei Betrieb der Website und Bereitstellung von Services zu unterstützen.",
+      "section4Point2": "<strong>Gesetzliche Behörden:</strong> Wenn gesetzlich erforderlich oder zum Schutz unserer Rechte, können wir Ihre Informationen zur Erfüllung gesetzlicher Anforderungen oder bei Betrugsuntersuchungen offenlegen.",
+      "section4Conclusion": "Wir verkaufen, vermieten oder handeln Ihre persönlichen Daten nicht an Dritte.",
+      "section5Title": "5. Cookies und Tracking-Technologien",
+      "section5Paragraph1": "Wir verwenden <strong>Cookies</strong> und ähnliche Tracking-Technologien, um Ihre Erfahrung auf der Website zu verbessern. Cookies sind kleine Datendateien, die auf Ihrem Gerät gespeichert werden. Sie helfen uns, den Traffic zu analysieren, Inhalte zu personalisieren und das Nutzerverhalten zu verfolgen, um die Website zu optimieren.",
+      "section5Paragraph2": "Sie können die Cookie-Einstellungen über Ihren Browser steuern, aber das Deaktivieren von Cookies kann Ihre Erfahrung auf der Website beeinträchtigen.",
+      "section6Title": "6. Datensicherheit",
+      "section6Paragraph": "Wir ergreifen angemessene technische und organisatorische Maßnahmen, um Ihre persönlichen Daten zu schützen. Dennoch ist keine Methode der elektronischen Übertragung oder Speicherung 100% sicher. Obwohl wir uns bemühen, Ihre Daten zu schützen, können wir deren absolute Sicherheit nicht garantieren.",
+      "section7Title": "7. Aufbewahrung von Daten",
+      "section7Paragraph": "Wir bewahren Ihre personenbezogenen Daten nur so lange auf, wie es für die Zwecke, für die sie erhoben wurden, erforderlich ist oder gesetzlich vorgeschrieben ist. Sobald Ihre Daten nicht mehr benötigt werden, werden sie sicher gelöscht.",
+      "section8Title": "8. Ihre Rechte",
+      "section8Intro": "Sie haben das Recht auf:",
+      "section8Point1": "<strong>Auskunft:</strong> Fordern Sie eine Kopie der personenbezogenen Daten an, die wir über Sie speichern.",
+      "section8Point2": "<strong>Berichtigung:</strong> Aktualisieren oder korrigieren Sie ungenaue personenbezogene Daten.",
+      "section8Point3": "<strong>Löschung:</strong> Beantragen Sie die Löschung Ihrer personenbezogenen Daten.",
+      "section8Point4": "<strong>Abmeldung:</strong> Melden Sie sich jederzeit von Marketingnachrichten ab.",
+      "section8Contact": "Um diese Rechte auszuüben, kontaktieren Sie uns bitte unter <a href='mailto:marketing@thaalam.ch'>marketing@thaalam.ch</a>.",
+      "section9Title": "9. Internationale Datenübermittlung",
+      "section9Content": "Ihre Daten können ausserhalb der Schweiz verarbeitet werden. Durch die Nutzung der Website stimmen Sie dieser Übertragung zu.",
+      "section10Title": "10. Änderungen dieser Datenschutzerklärung",
+      "section10Content": "Diese Datenschutzerklärung kann von Zeit zu Zeit aktualisiert werden. Bitte überprüfen Sie diese regelmässig auf Änderungen.",
+      "section11Title": "11. Kontakt",
+      "section11Content": "Fragen zur Datenschutzerklärung richten Sie an: <br><strong>E-Mail:</strong> support@thaalam.ch <br><strong>Telefon:</strong> +41 41 562 79 44",
+      "section12Title": "12. Sonstige Bestimmungen",
+      "section12SubTitle1": "Haftungsbeschränkung:",
+      "section12Content1": "Soweit gesetzlich zulässig, haftet <strong>Thaalam Media</strong> nicht für indirekte, beiläufige, spezielle oder Folgeschäden, die sich aus der Nutzung oder Nichtnutzung der Website ergeben, einschliesslich Datenverlust oder Schäden durch Dienste Dritter.",
+      "section12SubTitle2": "Anwendbares Recht:",
+      "section12Content2": "Diese Bedingungen und die Datenschutzerklärung unterliegen dem Recht der Schweiz, unter Ausschluss der Kollisionsnormen.",
+      "section12SubTitle3": "Streitbeilegung:",
+      "section12Content3": "Streitigkeiten im Zusammenhang mit diesen Bedingungen oder der Datenschutzerklärung werden durch ein verbindliches Schiedsverfahren in der Schweiz entschieden.",
+      "section12Note": "Diese <strong>AGB</strong> und <strong>Datenschutzerklärung</strong> sorgen für rechtlichen Schutz der Website und bieten eine <strong>klare und benutzerfreundliche Erfahrung</strong> für Besucher, Kunden und Event-Teilnehmer. Die Formulierungen sind speziell darauf ausgelegt, den geltenden Datenschutzgesetzen (z.B. DSGVO) zu entsprechen und die Anliegen der Nutzer zu berücksichtigen."
+    },
+    "contact_us_page": {
+      "title_address": "Adresse des Veranstaltungsortes",
+      "title_phone": "Kontakt Nummer",
+      "title_email": "E-Mail-Adresse"
+    },
+    "contact_form": {
+      "tagline": "Kontaktieren Sie uns",
+      "title": "Wir sind für Sie da und freuen uns auf Ihre Nachricht",
+      "full_name": "Vollständiger Name *",
+      "phone_number": "Telefonnummer *",
+      "email_address": "E-Mail-Adresse *",
+      "ticket_id": "Ticket-ID *",
+      "message": "Nachricht *",
+      "country": "Land *",
+      "shop_name": "Name des Geschäfts *",
+      "category": "Kategorie *",
+      "contact_person": "Ansprechpartner *",
+      "placeholder_name": "Max Mustermann",
+      "placeholder_phone": "+41 79 288 22 71",
+      "placeholder_email": "max@domain.com",
+      "placeholder_ticket": "Geben Sie Ihre Ticket-ID ein",
+      "placeholder_message": "Ihre Nachricht schreiben",
+      "placeholder_shope_name": "Ihr Geschäftsname",
+      "placeholder_category": "Essen / Handwerk / Accessoires",
+      "placeholder_country": "Schweiz",
+      "submit": "Absenden",
+      "ticket_enquiry": "Ticketanfrage",
+      "stall_enquiry": "Standanfrage",
+      "pre-registration": "Vorregistrierung",
+      "enter_otp": "OTP eingeben",
+      "placeholder_otp": "Geben Sie den an Ihre Nummer gesendeten OTP ein",
+      "otp_btn": "OTP senden",
+      "complete_registration": "Registrierung abschließen"
+    },
+    "pre_reg": {
+      "title": "Vorteile der Vorregistrierung",
+      "dont_miss": "Nicht verpassen!",
+      "exclusive_perks": "Exklusiv für vorregistrierte Kunden",
+      "exclusive_perks_2": "Sichere dir exklusive Vorteile – noch bevor alle anderen Zugang erhalten.",
+      "be_first": "Sie der Erste",
+      "be_first_topic": "Vorab-Registrierte erhalten Frühzugang zu:",
+      "early_bird": "Frühbucher-Tickets",
+      "vip_tickets": "VIP-Tickets",
+      "shuttle_services": "Shuttle-Services",
+      "members_only": "Zugang nur für Mitglieder",
+      "members_only_text": "Nur registrierte E-Mail-Adressen erhalten den privaten Link, um alle Pre-Registration-Vorteile zu nutzen.",
+      "meet_greet": "Meet & Greet Gelegenheiten",
+      "meet_greet_text": "Treffen Sie besondere Gäste nach unserer Hauptveranstaltung. Begrenzte Plätze – nur für Vorregistrierte.",
+      "priority_booking": "Bevorzugte Buchung",
+      "priority_booking_text": "Überspringen Sie die Warteschlange beim Ticketverkauf. Wer zuerst kommt, mahlt zuerst – aber Sie kommen zuerst rein!",
+      "deadline": "Frist: 25. Juni",
+      "deadline_text": "Jetzt vorab registrieren und alle Vorteile sichern!",
+      "grab_tickets": "Hol dir deine Tickets auf <a href='https: //www.thaalamsummerfestival.com' target='_blank'>www.Thaalamsummerfestival.com</a>",
+      "view_benefits": "Vorteile ansehen",
+      "terms_and_conditions": "Geltende Geschäftsbedingungen"
+    }
+  },
+  "FR": {
+    "home": "Accueil",
+    "about_us": "À propos de nous",
+    "show_lineup": "Programme des spectacles",
+    "news": "Actualités",
+    "info": "Informations",
+    "follow_us": "Suivez-nous",
+    "contact_us": "Contactez-nous",
+    "reach_us": "<span class='icon-contact'></span> Contactez-nous",
+    "location": "Lieu",
+    "enquiry": "Demande",
+    "marketing": "Marketing",
+    "find_events": "Trouvez vos événements",
+    "privacy_policy": "<span class='icon-plus'></span> Politique de<br> confidentialité",
+    "terms_and_conditions": "<span class='icon-plus'></span> Conditions générales",
+    "get_in_touch": "Prendre contact",
+    "help_text": "Nous sommes là pour vous aider et à votre écoute",
+    "full_name": "Nom complet",
+    "email_address": "Adresse e-mail",
+    "phone_number": "Numéro de téléphone",
+    "book_now_tickets": "<i class='fas fa-ticket-alt'></i> Réservez maintenant",
+    "subject": "Sujet",
+    "message": "Message",
+    "event_details": "Détails de l'événement",
+    "time": "Heure",
+    "event": "Événement",
+    "artist": "Artiste",
+    "registration": "Inscription",
+    "tickets": "<i class='fas fa-ticket-alt'></i><span> Billets</span>",
+    "tickets_title": "Billets",
+    "trailer-title": "Échos de la Foule",
+    "trailer-content": "Revivez les performances marquantes et les moments inoubliables du festival de cette année. <br>Regardez-les dès maintenant sur YouTube et ressentez à nouveau l’ambiance !",
+    "book_now": "Réservez vos billets",
+    "explore_artist": "Explorer les artistes",
+    "discover_stars": "Découvrez les <br> stars qui illuminent <span>notre scène</span>",
+    "media_partner": "Partenaire <span>média</span>",
+    "yuvan_event_title": "<img src='assets/img/home/rock.png' alt=''> Festival à venir : <span>Summer Festival Reloaded : vibrations nocturnes</span>",
+    "yuvan_event_desc": "🎤 Ne manquez pas la performance électrisante de Yuvan le <strong>Août 29|30|31 2025</strong> !",
+    "dont_miss": "Ne manquez pas un <span>beat</span>",
+    "newsletter_q": "Des questions, des demandes d'événements ou des idées de collaboration ?",
+    "newsletter_reach": "Contactez Thaalam Media -<br> un message suffit pour faire de la magie !",
+    "lets_connect": "<span class='icon-arrow-circle'></span>Connectons-nous",
+    "useful_links": "Liens utiles",
+    "coming_soon": "Disponible Bientôt  ...",
+    "all_days": "Tous les jours",
+    "early_bird": "Billets Early Bird",
+    "normal_tickets": "Billets normaux",
+    "vip_tickets": "Billets VIP",
+    "no_news_header": "Aucune nouvelle disponible",
+    "no_news_para": "Revenez plus tard pour les dernières mises à jour et annonces du Thaalam Summer Festival !",
+    "countdown": {
+      "days": "jours",
+      "hours": "heures",
+      "minutes": "minutes",
+      "seconds": "secondes"
+    },
+    "about_us_page": {
+      "title1": "Thaalam <span>Media</span> — Au-delà de la radiodiffusion",
+      "content1": "Des voix qui traversent les continents. Des rythmes qui bâtissent des ponts.",
+      "content2": "Bienvenue chez Thaalam Media, une force pionnière comptant plus de 20 ans d'excellence dans l'industrie des médias. Fondée en 2002 au Sri Lanka, notre société s’est forgée une solide réputation grâce à un réseau profondément enraciné et a évolué bien au-delà de la diffusion traditionnelle. Avec plus de 190 événements d’envergure à notre actif, mettant en vedette des personnalités majeures du cinéma et de la télévision, Thaalam Media est devenue un symbole de confiance, de créativité et d’excellence dans l’exécution.",
+      "title2": "Thaalam en Suisse",
+      "content3": "Thaalam FM a marqué l’histoire en devenant la première et seule station de radio tamoule en Suisse à diffuser via la technologie DAB (Digital Audio Broadcasting). Présente dans les 26 cantons suisses, notre diffusion transcende à la fois les paysages et les barrières culturelles. Pour la communauté tamoule, qui a attendu pendant quatre décennies une voix dans sa propre langue, Thaalam est bien plus qu’une radio — c’est une révolution culturelle. Nos émissions en haute définition atteignent les foyers et les autoradios à travers tout le pays, avec un public fidèle composé majoritairement de jeunes, représentant 80 % des auditeurs tamoulophones."
+    },
+    "who_we_are": {
+      "title": "Qui nous sommes",
+      "list": [
+        "Fondateurs du premier et unique réseau radiophonique sud-asiatique multilingue diffusé dans les 26 cantons suisses",
+        "Promoteurs de l’excellence culturelle — de Toronto à Zurich",
+        "Pionniers d’événements majeurs, y compris le concert historique d’A.R. Rahman en Suisse avec 20 000 spectateurs"
+      ]
+    },
+    "what_we_believe": {
+      "title": "Ce en quoi nous croyons",
+      "quote": "La musique est mémoire. C’est la migration. Elle est l’identité. Nous amenons l’Asie du Sud sur la scène mondiale — un rythme à la fois."
+    },
+    "our_vision": {
+      "title_main": "Notre vision",
+      "title_sub": "Bien plus que de la musique",
+      "intro": "Pas seulement un événement — un mouvement qui vous accompagne, évolue avec vous, et reste en vous.",
+      "cards": {
+        "connect_worlds": {
+          "title": "Connecter les mondes",
+          "desc": "Nos festivals sont des carrefours culturels où le tamoul rencontre la techno, Bollywood fusionne avec l’EDM, et la tradition rencontre le futur."
+        },
+        "empower_artists": {
+          "title": "Valoriser les artistes",
+          "desc": "Des légendes aux nouveaux talents, nous amplifions les voix diverses de l’Asie du Sud sur une scène mondiale."
+        },
+        "redefine_entertainment": {
+          "title": "Redéfinir le divertissement culturel",
+          "desc": "Pas seulement un événement — un mouvement qui vous accompagne, évolue avec vous, et reste en vous."
+        }
+      }
+    },
+    "dataProtection": {
+      "title": "Protection des données",
+      "section1Title": "<i class='fas fa-file-contract me-2'></i> 1. Introduction",
+      "section1Content": "<strong>Thaalam Media GmbH (« nous », « notre »)</strong> s’engage à protéger votre vie privée. Cette <strong>politique de confidentialité</strong> explique comment nous collectons, utilisons, divulguons et stockons vos données personnelles lorsque vous visitez <a href=\"www.thaalam.ch\" target=\"_blank\">www.thaalam.ch</a> (le « Site Web ») ou participez au Thaalam's Summer Festival 2025 (le « Festival ») en Suisse. En accédant et en utilisant notre Site Web, vous acceptez cette politique de confidentialité. Si vous n’êtes pas d’accord, veuillez ne pas utiliser le Site Web.",
+      "section2Title": "<i class='fas fa-file-contract me-2'></i> 2. Responsable du traitement des données",
+      "section2Intro": "Le responsable du traitement de vos données personnelles est :",
+      "section2List": [
+        "Thaalam Media GmbH",
+        "Adresse : [Insérer l’adresse]",
+        "Email : <a href='mailto:marketing@thaalam.ch'>marketing@thaalam.ch</a>",
+        "Téléphone : <a href='tel:+41415627944'>+41 41 562 79 44</a>"
+      ],
+      "section3Title": "<i class='fas fa-file-contract me-2'></i> 3. Informations que nous collectons",
+      "section3ContentIntro": "Nous collectons les types de données suivants :",
+      "section3List": [
+        "<strong>Informations personnelles :</strong> nom, adresse email, numéro de téléphone, adresse de facturation et de livraison, informations de paiement lors de l’achat des billets, inscription aux mises à jour ou interactions via notre Site Web.",
+        "<strong>Données non personnelles :</strong> type de navigateur, adresse IP, localisation géographique, historique de navigation sur notre Site Web.",
+        "<strong>Informations liées à l’événement :</strong> données relatives à votre présence et participation au Festival, y compris préférences de billetterie, inscription à l’événement et contenus générés par les utilisateurs (photos, vidéos, publications sur les réseaux sociaux).",
+        "<strong>Données de transaction :</strong> détails des billets achetés, méthode de paiement et informations relatives aux transactions."
+      ],
+      "section4Title": "<i class='fas fa-file-contract me-2'></i> 4. Utilisation de vos données",
+      "section4ContentIntro": "Nous utilisons vos données personnelles aux fins suivantes :",
+      "section4List": [
+        "<strong>Gestion de l’événement :</strong> traitement des ventes de billets, inscriptions et participation aux activités liées au Festival.",
+        "<strong>Communication client :</strong> envoi de mises à jour, informations sur les billets, modifications du programme, matériel promotionnel.",
+        "<strong>Expérience personnalisée :</strong> adaptation de votre expérience sur notre Site Web, envoi de contenus ou recommandations selon vos préférences.",
+        "<strong>Traitement des paiements :</strong> facilitation et sécurisation des paiements et transactions.",
+        "<strong>Marketing et promotions :</strong> envoi d’informations concernant les produits et services de Thaalam Media GmbH. Vous pouvez vous désinscrire à tout moment.",
+        "<strong>Obligations légales :</strong> respect des obligations légales, comptabilité, lutte contre le blanchiment d’argent, et réponses aux demandes officielles."
+      ],
+      "section5Title": "<i class='fas fa-file-contract me-2'></i> 5. Base légale du traitement des données",
+      "section5ContentIntro": "Conformément à la <strong>loi fédérale suisse sur la protection des données (LPD)</strong> et au <strong>Règlement général sur la protection des données (RGPD)</strong>, nous nous appuyons sur les bases légales suivantes pour le traitement de vos données personnelles :",
+      "section5List": [
+        "<strong>Consentement :</strong> en nous fournissant vos données personnelles (par exemple, abonnement à la newsletter ou achat de billets), vous consentez à leur traitement.",
+        "<strong>Nécessité contractuelle :</strong> le traitement des données personnelles est nécessaire à l’exécution d’un contrat, comme l’achat de billets, la participation aux événements et la prestation de services.",
+        "<strong>Intérêts légitimes :</strong> nous pouvons traiter vos données sur la base de nos intérêts légitimes pour vous fournir des informations marketing pertinentes, gérer les interactions avec les utilisateurs et améliorer notre Site Web et nos services."
+      ],
+      "section6Title": "<i class='fas fa-file-contract me-2'></i> 6. Partage de vos informations",
+      "section6ContentIntro": "Nous prenons votre vie privée au sérieux. Cependant, nous pouvons partager vos données personnelles avec :",
+      "section6List": [
+        "<strong>Prestataires tiers :</strong> partenaires de confiance pour des services tels que le traitement des paiements, l’hébergement, les plateformes marketing, le support client et la logistique événementielle.",
+        "<strong>Autorités légales et réglementaires :</strong> nous pouvons divulguer vos données personnelles en cas d’obligation légale, procédure judiciaire ou demande gouvernementale, ou pour protéger les droits et la sécurité de Thaalam Media GmbH, nos utilisateurs ou le public.",
+        "<strong>Transferts commerciaux :</strong> en cas de fusion, acquisition ou vente d’actifs, vos données personnelles peuvent être transférées dans le cadre de la transaction. Nous vous informerons par email ou via un avis sur notre Site Web en cas de changement."
+      ],
+      "section7Title": "<i class='fas fa-file-contract me-2'></i> 7. Transferts internationaux de données",
+      "section7Content1": "Étant donné que <strong>Thaalam Media GmbH</strong> est basée en Suisse, vos données peuvent être transférées, traitées et stockées dans des pays hors de Suisse, y compris dans l’Espace économique européen (EEE) ou dans des lieux où nous ou nos prestataires tiers opérons. Ces pays peuvent avoir des lois sur la protection des données différentes.",
+      "section7Content2": "Nous veillerons à ce que des garanties appropriées soient mises en place pour protéger vos données conformément à la loi suisse, notamment via des <strong>clauses contractuelles types</strong> pour les transferts hors de Suisse ou de l’EEE.",
+      "section8Title": "<i class='fas fa-file-contract me-2'></i> 8. Sécurité des données",
+      "section8Content1": "Nous mettons en œuvre des mesures techniques et organisationnelles appropriées pour protéger vos données personnelles contre l’accès non autorisé, la perte, l’usage abusif ou la modification. Ces mesures incluent :",
+      "section8List1": "Chiffrement des données sensibles (ex. : informations de paiement)",
+      "section8List2": "Stockage sécurisé et systèmes de sauvegarde",
+      "section8List3": "Contrôles d’accès et audits de nos systèmes",
+      "section8Content2": "Malgré ces efforts, veuillez noter qu’aucune mesure de sécurité n’est garantie à 100 %. Nous nous efforçons de protéger vos données, mais ne pouvons garantir leur sécurité absolue.",
+      "section9Title": "<i class='fas fa-file-contract me-2'></i> 9. Conservation de vos données",
+      "section9Content1": "Nous conservons vos données personnelles aussi longtemps que nécessaire pour atteindre les finalités décrites dans cette politique ou selon les obligations légales. Par exemple, les données de transactions peuvent être conservées pour la comptabilité ou la fiscalité, et les préférences marketing jusqu’à ce que vous demandiez leur suppression ou mise à jour.",
+      "section9Content2": "Une fois inutiles, vos données seront supprimées ou anonymisées de manière sécurisée.",
+      "section10Title": "<i class='fas fa-file-contract me-2'></i> 10. Vos droits",
+      "section10Content1": "Conformément à la loi suisse sur la protection des données et au RGPD, vous disposez des droits suivants concernant vos données personnelles :",
+      "section10Point1": "<strong>Accès :</strong> obtenir une copie des données personnelles que nous détenons à votre sujet.",
+      "section10Point2": "<strong>Rectification :</strong> corriger toute inexactitude dans vos données personnelles.",
+      "section10Point3": "<strong>Suppression :</strong> demander la suppression de vos données personnelles, sous certaines conditions.",
+      "section10Point4": "<strong>Limitation du traitement :</strong> restreindre le traitement de vos données dans certains cas.",
+      "section10Point5": "<strong>Portabilité des données :</strong> obtenir vos données dans un format structuré, couramment utilisé et lisible par machine.",
+      "section10Point6": "<strong>Opposition :</strong> vous opposer au traitement de vos données, notamment à des fins de marketing direct.",
+      "section10Content2": "Pour exercer ces droits, veuillez nous contacter à <a href='mailto:marketing@thaalam.ch'>marketing@thaalam.ch</a>.",
+      "section11Title": "<i class='fas fa-file-contract me-2'></i> 11. Cookies et technologies de suivi",
+      "section11Content1": "Nous utilisons des cookies et technologies similaires pour améliorer votre expérience sur notre Site Web. Les cookies sont de petits fichiers texte placés sur votre appareil pour mémoriser vos préférences, analyser le trafic du Site et personnaliser le contenu.",
+      "section11Content2": "Vous pouvez contrôler les cookies via les paramètres de votre navigateur. Cependant, notez que désactiver les cookies peut limiter certaines fonctionnalités du Site Web.",
+      "section12Title": "<i class='fas fa-file-contract me-2'></i> 12. Modifications de cette politique",
+      "section12Content": "Nous pouvons mettre à jour cette politique de confidentialité de temps en temps. Lorsque c’est le cas, nous publierons la politique mise à jour sur cette page avec la date de dernière mise à jour. Merci de consulter cette politique régulièrement.",
+      "section13Title": "<i class='fas fa-file-contract me-2'></i> 13. Contact",
+      "section13Content": "Pour toute question ou préoccupation concernant cette politique ou le traitement de vos données, contactez-nous :",
+      "section13Address": "Adresse : [Insérer l’adresse]",
+      "section13Email": "Email : <a href='mailto:marketing@thaalam.ch'>marketing@thaalam.ch</a>",
+      "section13Phone": "Téléphone : <a href='tel:+41415627944'>+41 41 562 79 44</a>",
+      "section14Title": "<i class='fas fa-file-contract me-2'></i> Dispositions diverses",
+      "section14Content": "<strong>Loi applicable :</strong> Cette politique de confidentialité est régie par la loi suisse. Tout litige sera soumis aux tribunaux compétents en Suisse."
+    },
+    "legal_framework": {
+      "title": "Cadre Juridique",
+      "legalTitle": "Cadre Juridique du Festival d’Été Thaalam 2025",
+      "legalOrganizer": "Organisé par Thaalam Media GmbH",
+      "legalVenue": "Lieu : Amphithéâtre Hüntwangen, Suisse",
+      "section1Title": "1. POLITIQUE OPÉRATIONNELLE",
+      "section1aTitle": "a. Billetterie & Entrée",
+      "section1aPoints": [
+        "Toutes les ventes de billets sont définitives. Aucun remboursement, échange ou annulation ne sera accordé, sauf en cas d’annulation complète du festival.",
+        "Les billets (numériques ou imprimés) doivent être présentés à l’entrée. Les billets endommagés ou modifiés peuvent être refusés.",
+        "L’organisateur se réserve le droit de refuser l’entrée ou d’exclure toute personne ne respectant pas le règlement de l’événement ou des lois locales."
+      ],
+      "section1bTitle": "b. Report ou Annulation de l'Événement",
+      "section1bPoints": [
+        "Thaalam Media GmbH se réserve le droit de reprogrammer, déplacer ou annuler l’événement en cas de circonstances indépendantes de sa volonté, y compris (sans s’y limiter) force majeure, annulation d’artistes, restrictions gouvernementales ou préoccupations de sécurité.",
+        "En cas d’annulation, les détenteurs de billets seront informés des procédures de remboursement ou de crédit."
+      ],
+      "section1cTitle": "c. Programmation & Artistes",
+      "section1cPoints": [
+        "La présence des artistes peut être modifiée. Les changements de programmation ne donnent pas droit à un remboursement.",
+        "L’organisateur s’efforcera de maintenir l’intégrité de la programmation mais ne garantit ni la ponctualité ni la durée des évènements."
+      ],
+      "section2Title": "2. POLITIQUE DE VOYAGE & LOGISTIQUE",
+      "section2aTitle": "a. Responsabilité de Voyage",
+      "section2aPoints": [
+        "Tous les arrangements de voyage (vols, trains, transport local, hébergement) relèvent de la responsabilité des participants ou des artistes, sauf accord contraire écrit.",
+        "Thaalam Media GmbH décline toute responsabilité concernant les perturbations de voyage, les problèmes de visa ou les correspondances manquées."
+      ],
+      "section2bTitle": "b. Visas & Conditions d’Entrée",
+      "section2bPoints": [
+        "Les participants internationaux doivent s’assurer de respecter les exigences de visa d’entrée et de la frontière de Suisse.",
+        "Des lettres d’invitation peuvent être fournies sur demande pour les détenteurs de billets nécessitant un visa."
+      ],
+      "section2cTitle": "c. Accès au Lieu & Transport",
+      "section2cPoints": [
+        "Des options de transport public et privé limité seront publiées sur le site web.",
+        "Des informations sur les navettes ou forfaits hôtels partenaires seront communiquées, si disponibles."
+      ],
+      "section3Title": "3. POLITIQUE DU PUBLIC & MARKETING",
+      "section3aTitle": "a. Code de Conduite",
+      "section3aPoints": [
+        "Tous les participants doivent faire preuve de respect envers les autres spectateurs, les artistes et le personnel.",
+        "La discrimination, le harcèlement, les comportements agressifs ou l’intoxication ne seront pas tolérés. Les contrevenants pourront être expulsés sans remboursement."
+      ],
+      "section3bTitle": "b. Médias & Droit à l’Image",
+      "section3bPoints": [
+        "En entrant sur le site de l’évènement, les spectateurs acceptent d’être photographiés, filmés ou enregistrés à des fins promotionnelles et d’archives.",
+        "Thaalam Media GmbH détient tous les droits d’utilisation de ce contenu sur ses canaux (réseaux sociaux, presse, télévision, promotions futures)."
+      ],
+      "section3cTitle": "c. Promotions & Communications",
+      "section3cPoints": [
+        "Les participants peuvent choisir de recevoir des communications sur les futurs événements, les offres et les produits de commerce. Ils peuvent gérer leurs préférences via les liens de désabonnement ou par demande directe."
+      ],
+      "section4Title": "4. ENVIRONNEMENT & ACCESSIBILITÉ",
+      "section4aTitle": "a. Responsabilité Environnementale",
+      "section4aPoints": [
+        "Le festival encourage le développement durable en :",
+        "Promouvant le recyclage et la réduction des plastiques à usage unique",
+        "Mettant à disposition des bacs de tri sélectif sur tout le site",
+        "Collaborant avec des fournisseurs écoresponsables",
+        "Les participants sont encouragés à apporter des bouteilles réutilisables et à privilégier les transports écologiques."
+      ],
+      "section4bTitle": "b. Accessibilité",
+      "section4bPoints": [
+        "Le site est équipé de places et sanitaires accessibles aux fauteuils roulants.",
+        "Une assistance est disponible pour les personnes en situation de handicap. Les demandes doivent être envoyées à l’avance par mail à : marketing@thaalam.ch."
+      ],
+      "section5Title": "5. POLITIQUE COMMERCIALE (Vendeurs & Exposants)",
+      "section5aTitle": "a. Éligibilité des Vendeurs",
+      "section5aPoints": [
+        "Tous les vendeurs (alimentation, artisanat, marchandise) doivent soumettre une candidature et obtenir une approbation écrite.",
+        "La priorité sera donnée aux entreprises valorisant la culture sud-asiatique, l’écologie et l’originalité."
+      ],
+      "section5bTitle": "b. Assurances & Permis",
+      "section5bPoints": [
+        "Les vendeurs doivent disposer d’une assurance responsabilité civile valide et des licences nécessaires en vertu du droit suisse.",
+        "Des contrôles sanitaires ou inspections peuvent être effectués par les autorités locales ou les organisateurs."
+      ],
+      "section5cTitle": "c. Installation & Démontage",
+      "section5cPoints": [
+        "Les vendeurs doivent respecter les emplacements attribués, les horaires d’installation et les consignes de sécurité.",
+        "Le non-respect de ces règles peut entraîner l’exclusion immédiate de l’événement."
+      ],
+      "section6Title": "6. POLITIQUE DE MARQUE & DE PROPRIÉTÉ INTELLECTUELLE",
+      "section6aTitle": "a. Propriété Intellectuelle",
+      "section6aPoints": [
+        "Tous les contenus présents sur le site du festival, les supports promotionnels et les produits commerciaux sont la propriété intellectuelle de Thaalam Media GmbH ou de ses partenaires sous licence.",
+        "Toute reproduction, distribution ou utilisation commerciale non autorisée est strictement interdite."
+      ],
+      "section6bTitle": "b. Collaborations de Marque",
+      "section6bPoints": [
+        "L'utilisation du nom, du logo ou des éléments associés au festival dans des promotions ou publicités de tiers n’est autorisée qu’avec le consentement écrit de Thaalam Media GmbH."
+      ],
+      "section6cTitle": "c. Droits des Artistes",
+      "section6cPoints": [
+        "Les artistes conservent la propriété de leurs performances. Cependant, en se produisant lors du festival, ils accordent à Thaalam Media GmbH le droit de filmer, diffuser et promouvoir leur performance, sauf accord contraire écrit."
+      ],
+      "section7Title": "⚖️ DROIT APPLICABLE & RESPONSABILITÉ",
+      "section7Points": [
+        "Toutes les politiques sont régies par les droits de Suisse.",
+        "Thaalam Media GmbH décline toute responsabilité en cas de perte, vol ou détérioration d’effets personnels pendant le festival.",
+        "L’entrée à l’événement implique l’acceptation de toutes les conditions énoncées ci-dessus."
+      ]
+    },
+    "terms_condition": {
+      "title": "Conditions Générales",
+      "section1Title": "<i class='fas fa-file-contract me-2'></i> 1. Introduction",
+      "section1Content1": "Bienvenue au <strong>Thaalam's Summer Festival 2025</strong> (\"nous\", \"notre\" ou \"nos\"). Ces <strong>Conditions Générales</strong> (\"Conditions\") régissent votre accès et votre utilisation du site Web du Thaalam's Summer Festival 2025 situé à l'adresse <a href=\"www.thaalam.ch\" target=\"_blank\">www.thaalam.ch</a> (le “Site Web\"). En accédant ou en utilisant le Site Web, vous acceptez de vous conformer à ces Conditions. Si vous n'êtes pas d'accord avec ces conditions, veuillez ne pas utiliser le Site Web.",
+      "section1Content2": "Ces Conditions s'appliquent à tous les utilisateurs, y compris les visiteurs, les invités et ceux qui achètent des billets ou participent aux événements.",
+      "section2Title": "<i class='fas fa-file-contract me-2'></i> 2. Inscription Utilisateur & Compte",
+      "section2Content1": "Pour accéder à certaines fonctionnalités du Site Web, telles que l'achat de billets ou du contenu exclusif, vous devrez peut-être vous inscrire pour un compte. En vous inscrivant, vous acceptez de :",
+      "section2List1": "Fournir des informations exactes, actuelles et complètes.",
+      "section2List2": "Maintenir la sécurité et la confidentialité de vos identifiants de compte.",
+      "section2List3": "Nous informer immédiatement de toute utilisation non autorisée de votre compte.",
+      "section2Content2": "Vous êtes seul responsable de toutes les activités effectuées sous votre compte.",
+      "section3Title": "<i class='fas fa-file-contract me-2'></i> 3. Vente de Billets et Achats",
+      "section3Content1": "En achetant des billets via le Site Web, vous acceptez de :",
+      "section3List1": "Fournir des informations valides et exactes lors de l'achat des billets.",
+      "section3List2": "Respecter les conditions spécifiques liées au forfait de billets, telles que les restrictions d'accès et les conditions spéciales pour les billets VIP ou exclusifs.",
+      "section3List3": "Comprendre que tous les achats de billets sont non remboursables, sauf en vertu de notre Politique de Remboursement.",
+      "section3List4": "Être conscient de toute restriction sur la revente ou le transfert de billets comme indiqué sur la page d'achat des billets.",
+      "section3List5": "Respecter toutes les règles spécifiques au site, y compris les consignes de bonne conduite et les protocoles de sécurité sanitaire.",
+      "section4Title": "<i class='fas fa-file-contract me-2'></i> 4. Propriété Intellectuelle",
+      "section4Content1": "Tout le contenu du Site Web, y compris les textes, graphiques, logos, images, musique, logiciels et vidéos (le \"Contenu\") est la propriété de <strong>Thaalam Media</strong> ou de ses concédants de licence et est protégé par les lois sur le droit d'auteur. Vous avez une autorisation limitée, non transférable et non exclusive pour accéder et utiliser le Site Web à des fins personnelles et non commerciales.",
+      "section4Content2": "Vous ne pouvez pas :",
+      "section4List1": "Reproduire, distribuer ou modifier le Contenu sans autorisation explicite.",
+      "section4List2": "Utiliser l'un des logos, marques déposées ou autres informations exclusives du Site Web sans consentement écrit préalable.",
+      "section5Title": "<i class='fas fa-file-contract me-2'></i> 5. Politiques d’Événements",
+      "section5Content1": "Pour les événements du festival, y compris l'accès aux billets, les produits de commerce et les performances, les points suivants s'appliquent :",
+      "section5List1": "L'événement peut être sujet à des changements, y compris des modifications de date ou d'heure. Dans ce cas, <strong>Thaalam Media</strong> fournira des notifications.",
+      "section5List2": "Vous devez respecter les règles et règlements du site, y compris les objets interdits (par exemple, armes, drogues, appareils d'enregistrement, etc.).",
+      "section5List3": "Les participants sont responsables de leur propre sécurité, et <strong>Thaalam Media</strong> ne peut être tenu responsable des blessures, pertes ou dommages matériels pendant l'événement.",
+      "section5List4": "Vous pouvez être photographié ou enregistré pendant l'événement. En participant, vous consentez à l'utilisation de votre image et de votre voix à des fins promotionnelles ou sur les réseaux sociaux.",
+      "section6Title": "<i class='fas fa-file-contract me-2'></i> 6. Confidentialité et Collecte de Données",
+      "section6Content1": "Notre Politique de Confidentialité explique comment nous collectons, utilisons et stockons vos données personnelles. En utilisant le Site Web, vous consentez aux pratiques décrites dans la Politique de Confidentialité."
+    },
+    "privacy_plc": {
+      "title": "Politique de Confidentialité",
+      "section1Title": "<i class='fas fa-file-contract me-2'></i> 1. Introduction",
+      "section1Content": "Thaalam Media (\"nous\", \"notre\" ou \"nos\") s'engage à protéger votre vie privée. Cette <strong>Politique de Confidentialité</strong> explique comment nous collectons, utilisons, divulguons et protégeons vos données personnelles lorsque vous visitez <a href=\"https://www.thaalam.ch\" target=\"_blank\">www.thaalam.ch</a> (le \"Site Web\"). En utilisant le Site Web, vous consentez aux pratiques décrites dans cette Politique de Confidentialité.",
+      "section2Title": "2. Informations Collectées",
+      "section2Intro": "Nous collectons des informations lorsque vous interagissez avec notre Site Web, y compris les types de données suivants :",
+      "section2Point1": "<strong>Informations d'Identification Personnelle :</strong> Nom, adresse e-mail, numéro de téléphone, adresse postale, informations de paiement.",
+      "section2Point2": "<strong>Informations non personnelles :</strong> Type de navigateur, système d'exploitation, type de dispositif, historique de navigation, adresse IP, données de géolocalisation.",
+      "section2Point3": "<strong>Données de transaction :</strong> Historique des achats, préférences de billets, détails de paiement.",
+      "section3Title": "3. Comment Nous Utilisons Vos Informations",
+      "section3Intro": "Nous utilisons les informations collectées pour :",
+      "section3Point1": "Traiter les transactions et délivrer les billets ou services achetés.",
+      "section3Point2": "Fournir un support client et répondre aux demandes.",
+      "section3Point3": "Personnaliser votre expérience sur le Site Web, y compris des recommandations de contenu.",
+      "section3Point4": "Améliorer la fonctionnalité et la sécurité du Site Web.",
+      "section3Point5": "Envoyer des supports promotionnels, des mises à jour d'actualités et des messages marketing (vous pouvez vous désinscrire à tout moment).",
+      "section3Point6": "Respecter les obligations légales.",
+      "section4Title": "4. Partage de Vos Informations",
+      "section4Intro": "Nous pouvons partager vos informations avec :",
+      "section4Point1": "<strong>Fournisseurs de Services Tiers :</strong> Processus de paiement, hébergement, plateformes de marketing par e-mail, etc., pour nous aider à faire fonctionner le Site Web et à fournir des services.",
+      "section4Point2": "<strong>Autorités Légales :</strong> Si requis par la loi ou pour protéger nos droits, nous pouvons divulguer vos informations pour répondre à des demandes légales ou en cas d'enquête sur une fraude.",
+      "section4Conclusion": "Nous ne vendons, ne louons ni ne commercialisons vos informations personnelles à des tiers.",
+      "section5Title": "5. Cookies et Technologies de Suivi",
+      "section5Paragraph1": "Nous utilisons des <strong>cookies</strong> et des technologies similaires de suivi pour améliorer votre expérience sur le Site Web. Les cookies sont de petits fichiers de données placés sur votre appareil. Ils nous aident à analyser le trafic, personnaliser le contenu et suivre le comportement des utilisateurs pour améliorer le Site Web.",
+      "section5Paragraph2": "Vous pouvez contrôler les paramètres des cookies via les paramètres de votre navigateur, mais la désactivation des cookies peut affecter votre expérience sur le Site Web.",
+      "section6Title": "6. Sécurité des Données",
+      "section6Paragraph": "Nous mettons en place des mesures techniques et organisationnelles appropriées pour protéger vos données personnelles. Cependant, aucune méthode de transmission électronique ou de stockage n'est totalement sécurisée. Bien que nous fassions de notre mieux pour protéger vos données, nous ne pouvons garantir leur sécurité absolue.",
+      "section7Title": "7. Conservation des Données",
+      "section7Paragraph": "Nous conserverons vos données personnelles aussi longtemps que nécessaire pour accomplir les objectifs pour lesquels elles ont été collectées ou comme l'exige la loi. Lorsque vos données ne sont plus nécessaires, elles seront supprimées de manière sécurisée.",
+      "section8Title": "8. Vos Droits",
+      "section8Intro": "Vous avez les droits suivants concernant vos données personnelles :",
+      "section8Point1": "<strong>Accès :</strong> Demander une copie des données personnelles que nous détenons à votre sujet.",
+      "section8Point2": "<strong>Correction :</strong> Mettre à jour ou corriger toute inexactitude dans vos données personnelles.",
+      "section8Point3": "<strong>Suppression :</strong> Demander la suppression de vos données personnelles.",
+      "section8Point4": "<strong>Désinscription :</strong> Vous désinscrire des communications marketing à tout moment.",
+      "section8Contact": "Pour exercer ces droits, veuillez nous contacter à l'adresse suivante : <a href='mailto:marketing@thaalam.ch'>marketing@thaalam.ch</a>.",
+      "section9Title": "9. Transfert International des Données",
+      "section9Content": "Vos données personnelles peuvent être transférées et traitées dans des pays en dehors de la Suisse, où les lois sur la confidentialité peuvent ne pas offrir le même niveau de protection que dans votre pays. En utilisant le Site Web, vous consentez au transfert de vos données.",
+      "section10Title": "10. Modifications de la Politique de Confidentialité",
+      "section10Content": "Nous pouvons mettre à jour cette Politique de Confidentialité fréquemment, en cas de besoin. Lorsque cela se produit, nous publierons la politique mise à jour sur cette page et mettrons à jour la date de \"Dernière Mise à Jour\". Veuillez consulter cette politique périodiquement pour voir s'il y a des changements.",
+      "section11Title": "11. Contactez-Nous",
+      "section11Content": "Si vous avez des questions ou des préoccupations concernant notre Politique de Confidentialité ou la manière dont nous traitons vos données personnelles, veuillez nous contacter à :<br><strong>Email :</strong> support@thaalam.ch <br><strong>Téléphone :</strong> +41 41 562 79 44",
+      "section12Title": "Autres Conditions",
+      "section12SubTitle1": "Limitation de Responsabilité :",
+      "section12Content1": "Dans la mesure maximale autorisée par la loi, Thaalam Media ne sera pas responsable des dommages indirects, accidentels, spéciaux ou consécutifs résultant de l'utilisation ou de l'incapacité d'utiliser le Site Web, y compris mais sans s'y limiter, la perte de données, ou de tout dommage résultant d'actions ou de services de tiers.",
+      "section12SubTitle2": "Droit Applicable :",
+      "section12Content2": "Ces Conditions et la Politique de Confidentialité seront régies et interprétées conformément aux lois de la Suisse, sans égard à ses principes de conflits de lois.",
+      "section12SubTitle3": "Règlement des Litiges :",
+      "section12Content3": "Tout litige découlant de ou en relation avec ces Conditions ou la Politique de Confidentialité sera résolu par arbitrage contraignant en Suisse.",
+      "section12Note": "Cet ensemble de conditions générales d’utilisation et de politique de confidentialité garantit que le site web est protégé légalement tout en offrant une expérience claire et conviviale aux visiteurs, clients et participants aux évènements. Le langage et les clauses sont spécifiquement conçus pour être conformes aux lois sur la confidentialité applicables (par exemple RGPD) et pour répondre aux préoccupations que les utilisateurs peuvent avoir lors de l’utilisation de vos services."
+    },
+    "contact_us_page": {
+      "title_address": "Adresse du lieu",
+      "title_phone": "Numéro de contact",
+      "title_email": "Adresse e-mail"
+    },
+    "contact_form": {
+      "tagline": "Entrer en Contact",
+      "title": "Nous sommes là pour vous aider et prêts à vous écouter",
+      "full_name": "Nom complet *",
+      "phone_number": "Numéro de téléphone *",
+      "email_address": "Adresse e-mail *",
+      "ticket_id": "ID du billet *",
+      "message": "Message *",
+      "country": "Pays *",
+      "shop_name": "Nom du magasin *",
+      "category": "Catégorie *",
+      "contact_person": "personne de contact *",
+      "placeholder_name": "Jean Dupont",
+      "placeholder_phone": "+41 79 288 22 71",
+      "placeholder_email": "jean@domaine.com",
+      "placeholder_ticket": "Entrez votre ID de billet",
+      "placeholder_message": "Écrivez votre message",
+      "placeholder_shope_name": "Le nom de votre magasin",
+      "placeholder_category": "Nourriture / Artisanat / Accessoires",
+      "placeholder_country": "Suisse",
+      "submit": "Envoyer",
+      "ticket_enquiry": "Demande de billet",
+      "stall_enquiry": "Demande de stand",
+      "pre-registration": "Préinscription",
+      "enter_otp": "Entrez le code OTP",
+      "placeholder_otp": "Entrez le code OTP envoyé sur votre numéro",
+      "otp_btn": "Envoyer le code OTP",
+      "complete_registration": "Finaliser l'inscription"
+    },
+    "pre_reg": {
+      "title": "Avantages de la préinscription",
+      "dont_miss": "Ne manquez pas ça !",
+      "exclusive_perks": "Exclusif pour les clients pré-enregistrés",
+      "exclusive_perks_2": "Bénéficiez d’avantages exclusifs avant tout le monde.",
+      "be_first": "Soyez le Premier",
+      "be_first_topic": "Les pré-inscrits obtiennent un accès anticipé à :",
+      "early_bird": "Billets early bird",
+      "vip_tickets": "Billets VIP",
+      "shuttle_services": "Services de navette",
+      "members_only": "Accès réservé aux membres",
+      "members_only_text": "Seuls les e-mails enregistrés recevront des liens privés pour profiter des avantages pré-enregistrés.",
+      "meet_greet": "Opportunités Meet & Greet",
+      "meet_greet_text": "Rencontrez des invités spéciaux après notre événement principal. Places limitées — réservé aux pré-inscrits.",
+      "priority_booking": "Réservation prioritaire",
+      "priority_booking_text": "Passez devant la file lors de l’ouverture des réservations. Premier arrivé, premier servi — mais vous passez en premier !",
+      "deadline": "Date limite : 25 juin",
+      "deadline_text": "Pré-inscrivez-vous maintenant pour débloquer tous les avantages !",
+      "grab_tickets": "Prenez vos billets sur <a href='https://www.thaalamsummerfestival.com' target='_blank'>www.Thaalamsummerfestival.com</a>",
+      "view_benefits": "voir les avantages",
+      "terms_and_conditions": "Conditions générales appliquées"
+    }
+  }
+}
