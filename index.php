@@ -171,7 +171,7 @@
             </div>
             <div class="video-frame-wrapper wow slideInUp" data-wow-delay="100ms" data-wow-duration="2500ms">
                 <iframe width="65%" height="540" class="wow " data-wow-delay="1200ms"
-                    src="https://www.youtube.com/embed/fg8azfXkqaU"
+                    src="https://www.youtube.com/embed/YzpgjXarjyg"
                     title="YouTube video player" frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -219,27 +219,6 @@
         </section>
         <!--Counter Two End -->
 
-        <div class="modal fade" id="lineupModal" tabindex="-1" aria-labelledby="lineupModalLabel" aria-hidden="true">
-            <div class="modal-dialog modal-xl modal-dialog-centered modal-dialog-scrollable">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h5 class="modal-title" id="lineupModalLabel"><i class="fas fa-calendar-day"></i> Event Lineup</h5>
-                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                    </div>
-                    <div class="modal-body">
-                        <section class="show-lineup-tabs">
-                            <div class="container">
-                                <div class="tabs">
-                                    <ul class="tab-titles"></ul>
-                                    <div class="tab-content"></div>
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                </div>
-            </div>
-        </div>
-
         <!--Site Footer Start-->
         <?php include 'php/footer.php'; ?>
         <!--Site Footer End-->
@@ -253,9 +232,7 @@
 
     <!-- Scripts Links -->
     <?php include 'php/script.php'; ?>
-
     <!-- Scripts Links End -->
-    <script src="assets/js/show-lineup.js"></script>
     <script>
         window.$zoho = window.$zoho || {};
         $zoho.salesiq = $zoho.salesiq || {

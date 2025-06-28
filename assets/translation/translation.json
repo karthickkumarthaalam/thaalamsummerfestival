@@ -96,7 +96,7 @@
     "dataProtection": {
       "title": "Data Protection",
       "section1Title": "<i class='fas fa-file-contract me-2'></i> 1. Introduction",
-      "section1Content": "<strong>Thaalam Media (\"we\", \"us\", or \"our\")</strong> is committed to protecting your privacy. This <strong>Privacy Policy</strong> explains how we collect, use, disclose, and safeguard your personal data when you visit <a href=\"www.thaalam.ch\" target=\"_blank\">www.thaalam.ch</a> (the \"Website\") or engage with Thaalam's Summer Festival 2025 (the \"Festival\") in Switzerland. By accessing and using our Website, you agree to this Privacy Policy. If you do not agree, please do not use the Website.",
+      "section1Content": "<strong>Thaalam Media (\"we\", \"us\", or \"our\")</strong> is committed to protecting your privacy. This <strong>Privacy Policy</strong> explains how we collect, use, disclose, and safeguard your personal data when you visit <a href=\"https://thaalamsummerfestival.com\" target=\"_blank\">www.thaalamsummerfestival.com</a> (the \"Website\") or engage with Thaalam's Summer Festival 2025 (the \"Festival\") in Switzerland. By accessing and using our Website, you agree to this Privacy Policy. If you do not agree, please do not use the Website.",
       "section2Title": "<i class='fas fa-file-contract me-2'></i> 2. Data Controller",
       "section2Intro": "The data controller responsible for your personal data is:",
       "section2List": [
@@ -174,7 +174,7 @@
     "terms_condition": {
       "title": "Terms and Conditions",
       "section1Title": "<i class='fas fa-file-contract me-2'></i> 1. Introduction",
-      "section1Content1": "Welcome to <strong>Thaalam's Summer Festival 2025</strong> (\"we\", \"us\", or \"our\"). <strong>These Terms and Conditions</strong> (\"Terms\") govern your access to and use of the <strong>Thaalam’s Summer Festival 2025</strong> website located at <a href=\"www.thaalam.ch\" target=\"_blank\">www.thaalam.ch</a> (the \"Website\"). By accessing or using the Website, you agree to comply with these Terms. If you do not agree to these Terms, please refrain from using the Website.",
+      "section1Content1": "Welcome to <strong>Thaalam's Summer Festival 2025</strong> (\"we\", \"us\", or \"our\"). <strong>These Terms and Conditions</strong> (\"Terms\") govern your access to and use of the <strong>Thaalam’s Summer Festival 2025</strong> website located at <a href=\"https://thaalamsummerfestival.com\" target=\"_blank\">www.thaalamsummerfestival.com</a> (the \"Website\"). By accessing or using the Website, you agree to comply with these Terms. If you do not agree to these Terms, please refrain from using the Website.",
       "section1Content2": "These Terms apply to all users, including visitors, guests, and those who purchase tickets or participate in events.",
       "section2Title": "<i class='fas fa-file-contract me-2'></i> 2. User Registration & Account",
       "section2Content1": "To access certain features of the Website, such as ticket purchase or exclusive content, you may be required to register for an account. By registering, you agree to:",
@@ -309,7 +309,7 @@
     "privacy_plc": {
       "title": "Privacy & Policy",
       "section1Title": "<i class='fas fa-file-contract me-2'></i> 1. Introduction",
-      "section1Content": "Thaalam Media (\"we\", \"us\", or \"our\") is committed to protecting your privacy. This <strong>Privacy Policy</strong> explains how we collect, use, disclose, and safeguard your personal data when you visit <a href=\"www.thaalam.ch\" target=\"_blank\">www.thaalam.ch</a> (the \"Website\"). By using the Website, you consent to the practices described in this Privacy Policy.",
+      "section1Content": "Thaalam Media (\"we\", \"us\", or \"our\") is committed to protecting your privacy. This <strong>Privacy Policy</strong> explains how we collect, use, disclose, and safeguard your personal data when you visit <a href=\"https://thaalamsummerfestival.com\" target=\"_blank\">www.thaalamsummerfestival.com</a> (the \"Website\"). By using the Website, you consent to the practices described in this Privacy Policy.",
       "section2Title": "2. Information We Collect",
       "section2Intro": "We collect information when you interact with our Website, including the following types of data:",
       "section2Point1": "<strong>Personal Identification Information:</strong> Name, email address, phone number, mailing address, payment information.",
@@ -539,35 +539,35 @@
         "closingLine": "🎶 Thaalam Summer Festival: Music Beyond Borders — Responsibility Beyond the Stage. Together, let’s create memories while protecting our future."
       },
       "idCheck": {
-        "title": "ID CHECK",
+        "title": "ID Check",
         "content": "Age verification will be conducted at the entrance for all attendees aged 16 and above, and 18 and above where applicable. Entry will only be permitted upon presentation of valid official identification (ID card, passport, or driver’s license). Please note that general or half-fare travel cards, as well as school or student ID cards, are not accepted as valid identification."
       },
       "admissionMinors": {
-        "title": "ADMISSION FOR MINORS",
+        "title": "Admission for Minors",
         "content1": "Entry to Thaalam’s Summer Festival is permitted for individuals aged 16 and above. Visitors aged 14 to 15 years may attend if accompanied by a parent or legal guardian, or by providing a completed parental consent form.<a href='/assets/files/form.pdf' download>[Download form here]</a>.",
         "content2": "Children under 12 years must be accompanied by an adult aged 18 or older. If the accompanying adult is not a parent or legal guardian, a completed parental consent form is required.<a href='/assets/files/form.pdf' download>[Download form here]</a>."
       },
       "childrenUnder6": {
-        "title": "CHILDREN UNDER 6 YEARS",
+        "title": "Children under 6 years",
         "content1": "Children under the age of 6 are granted free entry to Thaalam’s Summer Festival when accompanied by an adult (18+) with a valid ticket. If the accompanying adult is not a parent or legal guardian, a completed parental consent form is required. <a href='/assets/files/form.pdf' download>[Download form here]</a>.",
         "content2": "We recommended not bringing children under 6 years of age to the festival."
       },
       "children6to16": {
-        "title": "CHILDREN AGED 6 TO 16 YEARS",
+        "title": "Children aged 6 to 16 years",
         "content": "Children aged between 6 and 12 years are eligible for a 25% discount on ticket prices. Entry requires valid identification, such as a passport or Ausweis document. We recommend avoiding attendance for young children where possible for safety and comfort."
       },
       "siteMap": {
-        "title": "SITE MAP",
+        "title": "Site Map",
         "content": "The festival site map will be published at a later date."
       },
       "openingHours": {
-        "title": "FESTIVAL GROUNDS OPENING HOURS",
+        "title": "Festival Ground Opening Hours",
         "friday": "Friday, August 29, 2025: 12:00 p.m. – 2:00 a.m.",
         "saturday": "Saturday, August 30, 2025: 12:00 p.m. – 2:00 a.m.",
         "sunday": "Sunday, August 31, 2025: 11:00 a.m. – 10:00 p.m."
       },
       "personalCare": {
-        "title": "PERSONAL CARE & RESPONSIBILITY",
+        "title": "Personal Care & Responsibility",
         "intro": "We encourage all visitors to enjoy the festival responsibly. Please look after yourself and your friends:",
         "point1": "Stay hydrated, especially with water.",
         "point2": "Avoid drugs or unsafe substances.",
@@ -576,20 +576,20 @@
         "point5": "If you feel unwell, seek assistance from security staff or medical personnel immediately."
       },
       "sanitary": {
-        "title": "SANITARY FACILITIES",
+        "title": "Sanitary Facilities",
         "content": "Clean restroom facilities with flush toilets will be available throughout the festival grounds, maintained regularly by our cleaning team."
       },
       "medical": {
-        "title": "MEDICAL SERVICES",
+        "title": "Medical Services",
         "content": "A fully equipped medical team will be present during opening hours. Follow the signs to the medical tent if you require assistance."
       },
       "hearing": {
-        "title": "PROTECT YOUR HEARING",
+        "title": "Protect Your Hearing",
         "content1": "Thaalam’s Summer Festival complies with legal regulations regarding maximum sound levels. However, exposure to high noise levels, especially near the stages, may still cause hearing damage. We recommend using earplugs, which are available for free at all bars and the information desk.",
         "content2": "Children should bring age-appropriate hearing protection. The organizer is not liable for hearing damage."
       },
       "security": {
-        "title": "SECURITY",
+        "title": "Security",
         "intro": "Police and security personnel will be present across the festival site 24/7. Please follow their instructions at all times.",
         "instruction": "Keep your valuables secure — the organizer is not responsible for lost or stolen items.",
         "contact1": "117 – Police",
@@ -601,37 +601,37 @@
         "emergency": "In the event of an emergency, follow festival announcements, staff instructions, and the marked emergency exit routes."
       },
       "tickets": {
-        "title": "TICKETS",
+        "title": "Tickets",
         "content": "Day passes and VIP tickets are available exclusively via our official webshop: thaalamsummerfestival.com. The organizer accepts no responsibility for tickets purchased outside official sales channels."
       },
       "lineup": {
-        "title": "PROGRAM LINE-UP",
+        "title": "Program Line-ups",
         "content": "The complete festival timetable will be announced soon."
       },
       "accommodation": {
-        "title": "ACCOMMODATION",
+        "title": "Accomodation",
         "content": "Accommodation details and options will be announced at a later date."
       },
       "crowdsurfing": {
-        "title": "CROWDSURFING",
+        "title": "Crowdsurfing",
         "content": "For safety reasons, crowdsurfing is strictly prohibited."
       },
       "photo": {
-        "title": "PHOTO, VIDEO, AND SELFIE STICKS",
+        "title": "Photo, Video and Selfi Sticks",
         "content": "Mobile phones are permitted throughout the festival. However, professional photography and video equipment, as well as selfie sticks, gimbals, and similar devices, are prohibited on the premises."
       },
       "ticketChecks": {
-        "title": "TICKET CHECKS",
+        "title": "Ticket Checks",
         "content": "All tickets will be electronically scanned and verified upon entry. Counterfeit, copied, or unauthorized tickets will be confiscated, and entry will be denied. The organizer is not responsible for tickets obtained through unofficial sources."
       },
       "ticketRefund": {
-        "title": "TICKET REFUND POLICY",
+        "title": "Ticket Refund Policy",
         "content1": "All tickets are non-refundable and non-cancellable.",
         "content2": "An exception applies if the festival is canceled due to COVID-19 or related government restrictions — in such cases, tickets will be refunded.",
         "content3": "We recommend purchasing ticket protection via our partner Allianz Assistance, which covers illness or quarantine due to COVID-19. This option is available at checkout when purchasing tickets through our webshop."
       },
       "vipBenefits": {
-        "title": "VIP BENEFITS",
+        "title": "VIP Benifits",
         "benefit1": "Complimentary access to the Golden Circle",
         "benefit2": "Dedicated VIP Entrance",
         "benefit3": "VIP Parking",
@@ -742,7 +742,7 @@
     "dataProtection": {
       "title": "Datenschutz",
       "section1Title": "<i class='fas fa-file-contract me-2'></i> 1. Einleitung",
-      "section1Content": "<strong>Thaalam Media (\"wir\", \"uns\" oder \"unser\")</strong> verpflichtet sich, Ihre Privatsphäre zu schützen. Diese <strong>Datenschutzerklärung</strong> erläutert, wie wir Ihre personenbezogenen Daten erfassen, verwenden, offenlegen und schützen, wenn Sie <a href=\"www.thaalam.ch\" target=\"_blank\">www.thaalam.ch</a> (die \"Website\") besuchen oder mit dem Thaalam Summer Festival 2025 (dem \"Festival\") in der Schweiz interagieren. Durch den Zugriff auf und die Nutzung unserer Website erklären Sie sich mit dieser Datenschutzerklärung einverstanden. Wenn Sie nicht einverstanden sind, bitten wir Sie, die Website nicht zu nutzen.",
+      "section1Content": "<strong>Thaalam Media (\"wir\", \"uns\" oder \"unser\")</strong> verpflichtet sich, Ihre Privatsphäre zu schützen. Diese <strong>Datenschutzerklärung</strong> erläutert, wie wir Ihre personenbezogenen Daten erfassen, verwenden, offenlegen und schützen, wenn Sie <a href=\"https://thaalamsummerfestival.com\" target=\"_blank\">www.thaalamsummerfestival.com</a> (die \"Website\") besuchen oder mit dem Thaalam Summer Festival 2025 (dem \"Festival\") in der Schweiz interagieren. Durch den Zugriff auf und die Nutzung unserer Website erklären Sie sich mit dieser Datenschutzerklärung einverstanden. Wenn Sie nicht einverstanden sind, bitten wir Sie, die Website nicht zu nutzen.",
       "section2Title": "<i class='fas fa-file-contract me-2'></i> 2. Verantwortliche Stelle",
       "section2Intro": "Verantwortlich für Ihre personenbezogenen Daten ist:",
       "section2List": [
@@ -820,7 +820,7 @@
     "terms_condition": {
       "title": "Allgemeine Geschäftsbedingungen ",
       "section1Title": "<i class='fas fa-file-contract me-2'></i> 1. Einleitung",
-      "section1Content1": "Willkommen zum <strong>Thaalam Summer Festival 2025</strong> („wir“, „uns“ oder „unser“). Diese <strong>Allgemeinen Geschäftsbedingungen</strong> („AGB“) regeln Ihren Zugriff auf und die Nutzung der Website <a href=\"www.thaalam.ch\" target=\"_blank\">www.thaalam.ch</a> (die „Website“). Durch die Nutzung der Website erklären Sie sich mit diesen Bedingungen einverstanden. Wenn Sie nicht einverstanden sind, bitten wir Sie, die Nutzung zu unterlassen.",
+      "section1Content1": "Willkommen zum <strong>Thaalam Summer Festival 2025</strong> („wir“, „uns“ oder „unser“). Diese <strong>Allgemeinen Geschäftsbedingungen</strong> („AGB“) regeln Ihren Zugriff auf und die Nutzung der Website <a href=\"https://thaalamsummerfestival.com\" target=\"_blank\">www.thaalamsummerfestival.com</a> (die „Website“). Durch die Nutzung der Website erklären Sie sich mit diesen Bedingungen einverstanden. Wenn Sie nicht einverstanden sind, bitten wir Sie, die Nutzung zu unterlassen.",
       "section1Content2": "Diese Bedingungen gelten für alle Benutzer, einschließlich Besucher, Gäste und diejenigen, die Tickets kaufen oder an Veranstaltungen teilnehmen.",
       "section2Title": "<i class='fas fa-file-contract me-2'></i> 2. Benutzerregistrierung & Konto",
       "section2Content1": "Für bestimmte Funktionen (z. B. Ticketkauf oder exklusive Inhalte) müssen Sie ein Konto anlegen. Mit der Registrierung verpflichten Sie sich:",
@@ -955,7 +955,7 @@
     "privacy_plc": {
       "title": "Datenschutzrichtlinie",
       "section1Title": "<i class='fas fa-file-contract me-2'></i> 1. Einführung",
-      "section1Content": "Thaalam Media (\"wir\", \"uns\" oder \"unser\") verpflichtet sich zum Schutz Ihrer Privatsphäre. Diese <strong>Datenschutzerklärung</strong> erläutert, wie wir Ihre personenbezogenen Daten erheben, verwenden, offenlegen und schützen, wenn Sie <a href=\"www.thaalam.ch\" target=\"_blank\">www.thaalam.ch</a> (die \"Website\") besuchen. Durch die Nutzung der Website stimmen Sie den in dieser Datenschutzerklärung beschriebenen Praktiken zu.",
+      "section1Content": "Thaalam Media (\"wir\", \"uns\" oder \"unser\") verpflichtet sich zum Schutz Ihrer Privatsphäre. Diese <strong>Datenschutzerklärung</strong> erläutert, wie wir Ihre personenbezogenen Daten erheben, verwenden, offenlegen und schützen, wenn Sie <a href=\"https://thaalamsummerfestival.com\" target=\"_blank\">www.thaalamsummerfestival.com</a> (die \"Website\") besuchen. Durch die Nutzung der Website stimmen Sie den in dieser Datenschutzerklärung beschriebenen Praktiken zu.",
       "section2Title": "2. Informationen, die wir sammeln",
       "section2Intro": "Wir erfassen Informationen, wenn Sie mit unserer Website interagieren, einschließlich folgender Datenarten:",
       "section2Point1": "<strong>Personenbezogene Identifikationsinformationen:</strong> Name, E-Mail-Adresse, Telefonnummer, Postanschrift, Zahlungsinformationen.",
@@ -1157,7 +1157,7 @@
     "dataProtection": {
       "title": "Protection des données",
       "section1Title": "<i class='fas fa-file-contract me-2'></i> 1. Introduction",
-      "section1Content": "<strong>Thaalam Media GmbH (« nous », « notre »)</strong> s’engage à protéger votre vie privée. Cette <strong>politique de confidentialité</strong> explique comment nous collectons, utilisons, divulguons et stockons vos données personnelles lorsque vous visitez <a href=\"www.thaalam.ch\" target=\"_blank\">www.thaalam.ch</a> (le « Site Web ») ou participez au Thaalam's Summer Festival 2025 (le « Festival ») en Suisse. En accédant et en utilisant notre Site Web, vous acceptez cette politique de confidentialité. Si vous n’êtes pas d’accord, veuillez ne pas utiliser le Site Web.",
+      "section1Content": "<strong>Thaalam Media GmbH (« nous », « notre »)</strong> s’engage à protéger votre vie privée. Cette <strong>politique de confidentialité</strong> explique comment nous collectons, utilisons, divulguons et stockons vos données personnelles lorsque vous visitez <a href=\"https://thaalamsummerfestival.com\" target=\"_blank\">www.thaalamsummerfestival.com</a> (le « Site Web ») ou participez au Thaalam's Summer Festival 2025 (le « Festival ») en Suisse. En accédant et en utilisant notre Site Web, vous acceptez cette politique de confidentialité. Si vous n’êtes pas d’accord, veuillez ne pas utiliser le Site Web.",
       "section2Title": "<i class='fas fa-file-contract me-2'></i> 2. Responsable du traitement des données",
       "section2Intro": "Le responsable du traitement de vos données personnelles est :",
       "section2List": [
@@ -1339,7 +1339,7 @@
     "terms_condition": {
       "title": "Conditions Générales",
       "section1Title": "<i class='fas fa-file-contract me-2'></i> 1. Introduction",
-      "section1Content1": "Bienvenue au <strong>Thaalam's Summer Festival 2025</strong> (\"nous\", \"notre\" ou \"nos\"). Ces <strong>Conditions Générales</strong> (\"Conditions\") régissent votre accès et votre utilisation du site Web du Thaalam's Summer Festival 2025 situé à l'adresse <a href=\"www.thaalam.ch\" target=\"_blank\">www.thaalam.ch</a> (le “Site Web\"). En accédant ou en utilisant le Site Web, vous acceptez de vous conformer à ces Conditions. Si vous n'êtes pas d'accord avec ces conditions, veuillez ne pas utiliser le Site Web.",
+      "section1Content1": "Bienvenue au <strong>Thaalam's Summer Festival 2025</strong> (\"nous\", \"notre\" ou \"nos\"). Ces <strong>Conditions Générales</strong> (\"Conditions\") régissent votre accès et votre utilisation du site Web du Thaalam's Summer Festival 2025 situé à l'adresse <a href=\"https://thaalamsummerfestival.com\" target=\"_blank\">www.thaalamsummerfestival.com</a> (le “Site Web\"). En accédant ou en utilisant le Site Web, vous acceptez de vous conformer à ces Conditions. Si vous n'êtes pas d'accord avec ces conditions, veuillez ne pas utiliser le Site Web.",
       "section1Content2": "Ces Conditions s'appliquent à tous les utilisateurs, y compris les visiteurs, les invités et ceux qui achètent des billets ou participent aux événements.",
       "section2Title": "<i class='fas fa-file-contract me-2'></i> 2. Inscription Utilisateur & Compte",
       "section2Content1": "Pour accéder à certaines fonctionnalités du Site Web, telles que l'achat de billets ou du contenu exclusif, vous devrez peut-être vous inscrire pour un compte. En vous inscrivant, vous acceptez de :",
@@ -1371,7 +1371,7 @@
     "privacy_plc": {
       "title": "Politique de Confidentialité",
       "section1Title": "<i class='fas fa-file-contract me-2'></i> 1. Introduction",
-      "section1Content": "Thaalam Media (\"nous\", \"notre\" ou \"nos\") s'engage à protéger votre vie privée. Cette <strong>Politique de Confidentialité</strong> explique comment nous collectons, utilisons, divulguons et protégeons vos données personnelles lorsque vous visitez <a href=\"https://www.thaalam.ch\" target=\"_blank\">www.thaalam.ch</a> (le \"Site Web\"). En utilisant le Site Web, vous consentez aux pratiques décrites dans cette Politique de Confidentialité.",
+      "section1Content": "Thaalam Media (\"nous\", \"notre\" ou \"nos\") s'engage à protéger votre vie privée. Cette <strong>Politique de Confidentialité</strong> explique comment nous collectons, utilisons, divulguons et protégeons vos données personnelles lorsque vous visitez <a href=\"https://thaalamsummerfestival.com\" target=\"_blank\">www.thaalamsummerfestival.com</a> (le \"Site Web\"). En utilisant le Site Web, vous consentez aux pratiques décrites dans cette Politique de Confidentialité.",
       "section2Title": "2. Informations Collectées",
       "section2Intro": "Nous collectons des informations lorsque vous interagissez avec notre Site Web, y compris les types de données suivants :",
       "section2Point1": "<strong>Informations d'Identification Personnelle :</strong> Nom, adresse e-mail, numéro de téléphone, adresse postale, informations de paiement.",
