@@ -8,7 +8,7 @@ RewriteRule ^(.*)$ https://thaalamsummerfestival.com/$1 [L,R=301]
 RewriteCond %{HTTPS} !=on
 RewriteRule ^(.*)$ https://thaalamsummerfestival.com/$1 [L,R=301]
 
-# Your existing pretty URL rewrite
+RewriteRule ^$ index.php [L]
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php [L]

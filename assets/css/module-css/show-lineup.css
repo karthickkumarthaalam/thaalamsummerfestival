@@ -161,7 +161,7 @@
                 box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
                 padding: 18px 14px 12px 14px;
                 text-align: center;
-                width: 170px;
+                min-width: 170px;
                 transition: transform 0.2s, box-shadow 0.2s;
                 position: relative;
             }
@@ -178,6 +178,7 @@
                 border-radius: 50%;
                 border: 3px solid#f8bb10;
                 margin-bottom: 10px;
+                background: #fff;
             }
 
             .artist-card .artist-name {
@@ -210,6 +211,13 @@
             .owl-carousel .owl-item img {
                 display: unset;
                 width: unset;
+            }
+
+             .single-artist-center {
+              display: flex;
+              justify-content: center;
+              flex-wrap: wrap;
+              gap: 20px;
             }
 
             /* Price Details */

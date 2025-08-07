@@ -140,6 +140,7 @@ function renderLineup(data, tabNumber) {
 
     tableBody.innerHTML = "";
     artistsCarousel.innerHTML = "";
+    let totalArtists = 0;
 
     data?.data?.shows.forEach(show => {
         const row = document.createElement("tr");
@@ -149,6 +150,8 @@ function renderLineup(data, tabNumber) {
             <td>${show.location}</td>
         `;
         tableBody.appendChild(row);
+
+        totalArtists += show.artists.length;
 
         show.artists.forEach(artist => {
             const card = document.createElement("div");
@@ -168,22 +171,65 @@ function renderLineup(data, tabNumber) {
         });
     });
 
-    initArtistCarousel(`#artistsCarousel${tabNumber}`);
+    // initArtistCarousel(`#artistsCarousel${tabNumber}`);
+
+    requestAnimationFrame(() => {
+        const carouselElement = document.querySelector(`#artistsCarousel${tabNumber}`);
+        if (!carouselElement) return;
+
+        const cards = carouselElement.querySelectorAll(".artist-card");
+        const cardCount = cards.length;
+
+        $(carouselElement).trigger('destroy.owl.carousel');
+        carouselElement.classList.remove("owl-carousel", "owl-loaded", "owl-drag");
+        carouselElement.classList.remove("single-artist-center");
+
+        const clone = carouselElement.cloneNode(true);
+        clone.style.cssText = `
+        position: absolute;
+        visibility: hidden;
+        height: auto;
+        width: auto;
+        white-space: nowrap;
+    `;
+        document.body.appendChild(clone);
+
+        const contentWidth = clone.scrollWidth;
+        const containerWidth = carouselElement.clientWidth;
+        clone.remove();
+
+        if (contentWidth > containerWidth && cardCount > 1) {
+            carouselElement.classList.add("owl-carousel");
+            initArtistCarousel(`#artistsCarousel${tabNumber}`, cardCount);
+        } else {
+            carouselElement.classList.add("single-artist-center");
+        }
+    });
+
+
+
 }
 
-function initArtistCarousel(selector) {
+function initArtistCarousel(selector, itemCount) {
     const $carousel = $(selector);
 
-    if ($carousel.hasClass("owl-loaded")) {
-        return;
+    let visibleItems = 6;
+    const width = window.innerWidth;
+
+    if (width < 600) {
+        visibleItems = 2;
+    } else if (width < 1000) {
+        visibleItems = 3;
     }
 
+    const enableLoop = itemCount > visibleItems;
+
     $carousel.owlCarousel({
-        loop: true,
+        loop: enableLoop,
         margin: 20,
-        nav: true,
+        nav: false,
         dots: false,
-        autoplay: true,
+        autoplay: enableLoop,
         autoplayTimeout: 3000,
         autoplayHoverPause: true,
         navText: [
@@ -192,14 +238,18 @@ function initArtistCarousel(selector) {
         ],
         responsive: {
             0: {
-                items: 1
+                items: 2
             },
-            600: {
-                items: 1
+            768: {
+                items: 3
             },
-            1000: {
+            992: {
+                items: 4
+            },
+            1200: {
                 items: 6
             }
         }
+
     });
 }
