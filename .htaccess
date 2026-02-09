@@ -8,6 +8,9 @@ RewriteRule ^(.*)$ https://thaalamsummerfestival.com/$1 [L,R=301]
 RewriteCond %{HTTPS} !=on
 RewriteRule ^(.*)$ https://thaalamsummerfestival.com/$1 [L,R=301]
 
+# Redirect /ticket to index.php
+RewriteRule ^tickets/?$ /index.php [L,R=301]
+
 RewriteRule ^$ index.php [L]
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f

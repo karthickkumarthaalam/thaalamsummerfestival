@@ -242,7 +242,8 @@
                             <!-- Tab Toggle Buttons -->
                             <div class="tabs-buttons text-center mb-5">
                                 <!-- <button class="tab-btn active" data-target="#preRegistration" data-key="contact_form.pre-registration">Pre-Registration</button> -->
-                                <button class="tab-btn active" data-target="#ticketEnquiry" data-key="contact_form.ticket_enquiry">Ticket Enquiry</button>
+                                <button class="tab-btn active" data-target="#refundEnquiry" data-key="contact_form.refund_enquiry">Refund Enquiry</button>
+                                <button class="tab-btn" data-target="#ticketEnquiry" data-key="contact_form.ticket_enquiry">Ticket Enquiry</button>
                                 <button class="tab-btn" data-target="#stallEnquiry" data-key="contact_form.stall_enquiry">Stall Enquiry</button>
                             </div>
 
@@ -313,7 +314,7 @@
                                 </div>
 
                                 <!-- Ticket Enquiry Form -->
-                                <div id="ticketEnquiry" class="tab-pane active">
+                                <div id="ticketEnquiry" class="tab-pane">
                                     <form class="contact-three__form wow fadeInUp" data-wow-delay="100ms" method="post" novalidate>
                                         <div class="row">
                                             <div class="col-xl-6 col-lg-6">
@@ -404,6 +405,151 @@
                                     </form>
                                 </div>
 
+                                <div class="tab-pane active" id="refundEnquiry">
+                                    <form class="contact-three__form wow fadeInUp" data-wow-delay="100ms" method="POST" enctype="multipart/form-data" novalidate>
+                                        <div class="row">
+                                            <!-- Order ID -->
+                                            <div class="col-xl-6 col-lg-6">
+                                                <h4 class="contact-three__input-title" data-key="contact_form.order_id">Order ID *</h4>
+                                                <small id="orderIdError" style="color:red;display:none;" data-key="contact_form.ordeR_id_error">
+                                                    Order Id aleady submitted
+                                                </small>
+                                                <div class="contact-three__input-box">
+                                                    <input type="text" name="ORDER_ID" placeholder="Order Id" data-key-placeholder="contact_form.placeholder_order_id" id="orderIdInput" required>
+                                                </div>
+
+                                            </div>
+
+                                            <!-- Name -->
+                                            <div class="col-xl-6 col-lg-6">
+                                                <h4 class="contact-three__input-title" data-key="contact_form.full_name">Name *</h4>
+                                                <div class="contact-three__input-box">
+                                                    <input type="text" name="NAME" data-key-placeholder="contact_form.placeholder_name" placeholder="John Doe" required>
+                                                </div>
+                                            </div>
+
+                                            <!-- Email -->
+                                            <div class="col-xl-6 col-lg-6">
+                                                <h4 class="contact-three__input-title" data-key="contact_form.email_address">Email Address *</h4>
+                                                <div class="contact-three__input-box">
+                                                    <input type="email" name="EMAIL_ID" data-key="contact_form.placeholder_email" placeholder="shop@example.com" required>
+                                                </div>
+                                            </div>
+
+                                            <!-- Phone -->
+                                            <div class="col-xl-6 col-lg-6">
+                                                <h4 class="contact-three__input-title" data-key="contact_form.phone_number">Phone Number *</h4>
+                                                <div class="contact-three__input-box">
+                                                    <input type="text" name="PHONE_NUMBER" data-key-placeholder="contact_form.phone_number" placeholder="+41 79 288 22 71" required>
+                                                </div>
+                                            </div>
+
+                                            <!-- Refund or Continue -->
+                                            <div class="col-xl-6 col-lg-6">
+                                                <h4 class="contact-three__input-title" data-key="contact_form.refund_continue">What would you like to do? *</h4>
+                                                <div class="contact-three__input-box">
+                                                    <label><input type="radio" name="REFUND_OR_CONTINUE" value="refund" required> Refund</label>
+                                                    <label><input type="radio" name="REFUND_OR_CONTINUE" value="continue" required> Retain Tickets</label>
+                                                </div>
+                                            </div>
+
+                                            <!-- Payment Mode (Shown if refund is selected) -->
+                                            <div class="col-xl-6 col-lg-6" id="paymentModeSection" style="display:none;">
+                                                <h4 class="contact-three__input-title" data-key="contact_form.payment+mode">Payment Mode</h4>
+                                                <div class="contact-three__input-box">
+                                                    <label><input type="radio" name="PAYMENT_MODE" value="twint"> Twint</label>
+                                                    <label><input type="radio" name="PAYMENT_MODE" value="card"> Card</label>
+                                                    <!-- <label><input type="radio" name="PAYMENT_MODE" value="bank"> Bank</label> -->
+                                                </div>
+                                            </div>
+
+                                            <!-- TWINT Account (if twint) -->
+                                            <div class="col-xl-12" id="twintSection" style="display:none;">
+                                                <h4 class="contact-three__input-title" data-key="contact_form.twint_account">Twint Account</h4>
+                                                <div class="contact-three__input-box">
+                                                    <input type="text" name="TWINT_ACCOUNT" data-key-placeholder="contact_form.placeholder_twint_Account" placeholder="Twint account number">
+                                                </div>
+                                            </div>
+
+                                            <!-- Bank Details (if bank) -->
+                                            <div class="col-xl-12" id="bankSection" style="display:none;">
+                                                <div class="row">
+                                                    <div class="col-xl-6 col-lg-6">
+                                                        <h4 class="contact-three__input-title">Bank Name</h4>
+                                                        <div class="contact-three__input-box">
+                                                            <input type="text" name="BANK_NAME" placeholder="Bank name">
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-xl-6 col-lg-6">
+                                                        <h4 class="contact-three__input-title">Full Name</h4>
+                                                        <div class="contact-three__input-box">
+                                                            <input type="text" name="FULL_NAME" placeholder="Full name as per bank records">
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-xl-6 col-lg-6">
+                                                        <h4 class="contact-three__input-title">IBAN Number</h4>
+                                                        <div class="contact-three__input-box">
+                                                            <input type="text" name="IBAN_NUMBER" placeholder="CH93 0076 2011 6238 5295 7">
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="col-xl-6 col-lg-6">
+                                                        <h4 class="contact-three__input-title">BIC/SWIFT Code</h4>
+                                                        <div class="contact-three__input-box">
+                                                            <input type="text" name="BIC_SWIFT_CODE" placeholder="BIC/SWIFT Code">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <!-- Ticket Description -->
+                                            <div class="col-xl-12">
+                                                <h4 class="contact-three__input-title" data-key="contact_form.ticket_description">Ticket Description</h4>
+                                                <div class="contact-three__input-box">
+                                                    <textarea name="TICKET_DESCRIPTION" data-key-placeholder="contact_form.placeholder_ticket_description" placeholder="Describe the ticket"></textarea>
+                                                </div>
+                                            </div>
+
+                                            <!-- Bill Attachment -->
+                                            <div class="col-xl-12">
+                                                <h4 class="contact-three__input-title" data-key="contact_form.bill_attachment">Bill Attachment (optional)</h4>
+                                                <div class="contact-three__input-box">
+                                                    <input type="file" name="bills" accept=".jpg,.jpeg,.png,.pdf">
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-12">
+                                                <div class="contact-three__input-box">
+                                                    <label>
+                                                        <input type="checkbox" id="termsCheckbox" required>
+                                                        <span data-key="terms.confirmation_label">
+                                                            I confirm that I have read, understood, and agreed to the
+                                                            <a href="javascript:void(0)" onclick="openTermsPopup()">Terms and Conditions</a>.
+                                                        </span>
+                                                    </label>
+                                                    <small id="termsError" style="color:red; display:none;">
+                                                        You must accept the Terms and Conditions to continue.
+                                                    </small>
+                                                </div>
+                                            </div>
+
+                                            <!-- Submit -->
+                                            <div class="col-xl-12">
+                                                <div class="contact-three__btn-box">
+                                                    <div id="refundLoader" class="spinner" style="display:none; margin-bottom:10px;"></div>
+                                                    <button type="submit" class="thm-btn-two contact-three__btn" id="refundSubmitBtn">
+                                                        <span style="margin-right: 16px;" id="refundBtnText" data-key="contact_form.submit">Submit</span><i class="icon-angles-right"></i>
+                                                    </button>
+                                                </div>
+                                            </div>
+
+
+                                            <div class="col-xl-12">
+                                                <div class="result"></div>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+
                             </div><!-- /tab-content -->
 
                         </div><!-- /contact-three__right -->
@@ -463,6 +609,44 @@
             </div>
         </div>
 
+        <div id="termsPopup" class="benefits-popup-overlay" style="display:none;">
+            <div class="benefits-popup-content">
+                <h2 data-key="terms.title">Terms and Conditions</h2>
+                <span class="close-benefits" onclick="closeTermsPopup()">&times;</span>
+                <div class="terms-text" style="overflow-y:auto; text-align:left; padding:10px;">
+
+                    <p data-key="terms.intro"><b>TERMS AND CONDITIONS FOR TICKET HOLDERS OF [THAALAM SUMMER FESTIVAL]</b><br>
+                        By submitting the ticket status selection form to Thaalam Media ("Organizer"), you agree to be bound by the following terms according to your chosen option.</p>
+
+                    <h4 data-key="terms.refund_title">1. Ticket Holders Requesting a Refund</h4>
+                    <p data-key="terms.refund_a"><b>a) Refund Eligibility:</b> Refund requests must be submitted via the official form by the deadline set by the Organizer. Only tickets purchased through authorized channels and directly related to the rescheduled event are eligible. Refunds are granted solely due to the rescheduling caused by technical or logistical reasons announced by the Organizer.</p>
+                    <p data-key="terms.refund_b"><b>b) Refund Process:</b> Upon validation of your eligibility and receipt of requested documentation, refunds will be processed using the original payment method within a reasonable time frame communicated by the Organizer. The refunded amount equals the ticket face value and excludes any service fees or other costs.</p>
+                    <p data-key="terms.refund_c"><b>c) Waiver of Rights:</b> By requesting a refund, you irrevocably relinquish any rights to attend the rescheduled event or any related future events under the original ticket. You also waive any claims for additional compensation related to the rescheduling, including but not limited to travel, accommodation, or other incidental expenses.</p>
+                    <p data-key="terms.refund_d"><b>d) Ticket Invalidity:</b> Upon refund issuance, your ticket(s) become null and void, and any attempt to use, resell, or transfer refunded tickets is strictly prohibited and may result in legal action.</p>
+                    <p data-key="terms.refund_e"><b>e) Final Settlement:</b> Your refund request and these terms constitute a full and final settlement of your ticket purchase obligations with no further claims allowed against the Organizer.</p>
+
+                    <h4 data-key="terms.retain_title">2. Ticket Holders Opting to Retain Validity for the Rescheduled Event</h4>
+                    <p data-key="terms.retain_a"><b>a) Event Reschedule and Ticket Validity:</b> By electing to keep your ticket valid, you acknowledge and agree that your ticket will be valid for the new event date, which shall be determined solely at the Organizer’s discretion, with no obligation to notify you until official announcement.</p>
+                    <p data-key="terms.retain_b"><b>b) Seat Selection and Ticket Category:</b> If the event involves assigned seating, you will be granted the opportunity to select your seat(s) in accordance with the Organizer's policies. Ticket category and pricing for the rescheduled event may differ and will be communicated exclusively by the Organizer. The Organizer reserves the right to offer ticket categories at prices equal to or higher than your original purchase; these terms shall be final and binding.</p>
+                    <p data-key="terms.retain_c"><b>c) No Refunds After Selection:</b> Upon confirming your intent to keep your ticket valid, no refunds or exchanges will be permitted, regardless of the event date, seating, or ticket category changes.</p>
+                    <p data-key="terms.retain_d"><b>d) Organizer's Rights:</b> The Organizer reserves the right to verify ticket authenticity and holder identity upon admission, and may refuse entry for violations of these terms.</p>
+                    <p data-key="terms.retain_e"><b>e) Acceptance of Terms:</b> Your submission of the form with the “Remain Valid” choice signifies a binding agreement, waiving any claims for compensation, damages, or grievances related to the event’s rescheduling, seat allocation, or ticket category changes.</p>
+
+                    <h4 data-key="terms.general_title">3. General Provisions</h4>
+                    <p data-key="terms.general_a"><b>a) Confidentiality:</b> All communications from the Organizer to the ticket holder—including emails, announcements, forms, and any related correspondence—are strictly confidential and may not be disclosed, published, distributed, or shared without prior written consent of the Organizer. Breach may result in legal action under Swiss law. This obligation survives beyond the event.</p>
+                    <p data-key="terms.general_b"><b>b) Waiver of Legal Claims:</b> You irrevocably waive any and all rights to initiate legal action, claims for compensation, damages, or disputes arising from or related to your ticket status selection and its consequences once the form is submitted.</p>
+                    <p data-key="terms.general_c"><b>c) Governing Law and Jurisdiction:</b> These terms are governed by the laws of Switzerland. Any disputes shall be subject to the exclusive jurisdiction of the courts of Zurich.</p>
+                    <p data-key="terms.general_d"><b>d) Enforceability:</b> The Organizer reserves the right to seek all remedies available under law or equity for breaches of these terms, including injunctive relief and damages.</p>
+                    <p data-key="terms.general_e"><b>e) Data Protection and Privacy:</b> The Organizer will process personal data submitted through the ticket form in accordance with applicable data protection laws (such as the Swiss Federal Act on Data Protection) and uses the data only for event-related purposes. By submitting the form, ticket holders consent to such data processing.</p>
+
+                    <p data-key="terms.general_f"><b>f) Digital Acceptance and Binding Agreement:</b> Tick boxes or electronically signed consents on the website form constitute legally binding acceptance of the full Terms and Conditions by the ticket holder. Submission of the form is deemed as the full and final agreement acknowledging all rights, obligations, waivers, and contractual terms without reservation.</p>
+
+                    <p data-key="terms.final_text"><b>By submitting your selection via the official ticket status form, you confirm that you have read, understood, and unconditionally accept these Terms and Conditions as final and binding.</b></p>
+                </div>
+            </div>
+        </div>
+
+
 
         <!--Contact Three End-->
 
@@ -481,6 +665,14 @@
     <?php include 'php/script.php'; ?>
     <!-- Scripts Links End -->
     <script>
+        function openTermsPopup() {
+            document.getElementById('termsPopup').style.display = 'flex';
+        }
+
+        function closeTermsPopup() {
+            document.getElementById('termsPopup').style.display = 'none';
+        }
+
         function openBenefitsPopup() {
             const preRegContent = document.querySelector('.pre-reg-info').cloneNode(true);
             document.getElementById('benefitsContent').innerHTML = '';
@@ -730,6 +922,49 @@
             })
         }
 
+        let userState = {};
+
+        const termsCheckbox = document.getElementById("termsCheckbox");
+
+        termsCheckbox.addEventListener("click", async () => {
+            if (termsCheckbox.checked) {
+                try {
+                    const res = await fetch("https://ipapi.co/json/");
+                    const data = await res.json();
+                    userState.ip = data.ip;
+                    userState.city = data.city;
+                } catch (err) {
+                    console.error("Failed to get IP/location:", err);
+                }
+            }
+        });
+
+        const handleRefundEnquiry = (formData) => {
+
+            const formDataObj = new FormData();
+
+            for (let key in formData) {
+                if (key === "bills" && formData[key] instanceof FileList) {
+                    formDataObj.append(key, formData[key][0]);
+                } else {
+                    formDataObj.append(key, formData[key]);
+                }
+            }
+
+            if (userState.ip) {
+                formDataObj.append("USER_IP", userState.ip);
+            }
+            if (userState.city) {
+                formDataObj.append("USER_CITY", userState.city);
+            }
+
+
+            return fetch("https://api.demoview.ch/api/summer-festival", {
+                method: "POST",
+                body: formDataObj
+            });
+        }
+
         const customDropdown = () => {
             const dropdown = document.getElementById("countryDropdown");
             const selected = dropdown.querySelector(".dropdown-selected");
@@ -843,6 +1078,14 @@
             }
         };
 
+        function formatLabel(name) {
+            return name
+                .toLowerCase()
+                .replace(/_/g, " ")
+                .replace(/\b\w/g, c => c.toUpperCase())
+                .replace(/\bId\b/gi, "ID");
+        }
+
 
         const handleFormSubmit = async (form, endPointHandler) => {
             const formData = {};
@@ -855,14 +1098,36 @@
 
             for (let input of inputs) {
                 if (input.name) {
-                    let value = input.value.trim();
+                    if (input.type === "file") {
+                        formData[input.name] = input.files;
+                    } else if (input.type === "radio") {
+                        if (input.checked) {
+                            formData[input.name] = input.value;
+                        }
+                    } else {
+                        let value = input.value.trim();
 
-                    if (!value) {
-                        resultDiv.innerHTML = `<div class="alert alert-danger" style="margin-top: 20px;">${input.name} is required</div>`;
-                        return;
+                        if (input.hasAttribute("required") && !value) {
+                            resultDiv.innerHTML = `<div class="alert alert-danger" style="margin-top: 20px;">${formatLabel(input.name)} is required</div>`;
+                            return;
+                        }
+
+                        formData[input.name] = value;
                     }
+                }
+            }
+            const orderError = document.getElementById("orderIdError");
+            if (orderError && orderError.offsetParent !== null) {
+                resultDiv.innerHTML = `<div class="alert alert-danger" style="margin-top: 20px;">${orderError.textContent}</div>`;
+                return;
+            }
 
-                    formData[input.name] = value;
+            const requiredRadios = form.querySelectorAll("input[type='radio'][required]");
+            for (let radio of requiredRadios) {
+                const group = form.querySelectorAll(`input[name='${radio.name}']:checked`);
+                if (group.length === 0) {
+                    resultDiv.innerHTML = `<div class="alert alert-danger" style="margin-top: 20px;">${formatLabel(radio.name)} is required</div>`;
+                    return;
                 }
             }
 
@@ -892,6 +1157,61 @@
 
         document.addEventListener("DOMContentLoaded", () => {
 
+            const orderIdInput = document.getElementById("orderIdInput");
+            const orderIdError = document.getElementById("orderIdError");
+
+            const paymentModeWrapper = document.getElementById("paymentModeSection");
+            const twintFields = document.getElementById("twintFields");
+            const bankFields = document.getElementById("bankFields");
+
+            document.querySelectorAll("input[name='REFUND_OR_CONTINUE']").forEach(radio => {
+                radio.addEventListener("change", () => {
+                    if (radio.value === "refund") {
+                        paymentModeWrapper.style.display = "block";
+                    } else {
+                        paymentModeWrapper.style.display = "none";
+                        twintFields.style.display = "none";
+                        bankFields.style.display = "none";
+                    }
+                });
+            });
+
+            document.querySelectorAll("input[name='PAYMENT_MODE']").forEach(radio => {
+                radio.addEventListener("change", () => {
+                    if (radio.value === "twint") {
+                        twintSection.style.display = "block";
+                        bankSection.style.display = "none";
+                    } else if (radio.value === "bank") {
+                        twintSection.style.display = "none";
+                        bankSection.style.display = "block";
+                    } else if (radio.value === "card") {
+                        twintSection.style.display = "none";
+                    }
+                });
+            });
+
+
+            orderIdInput.addEventListener("blur", async () => {
+                const orderId = orderIdInput.value.trim();
+                if (!orderId) {
+                    orderIdError.style.display = "none";
+                    return;
+                }
+                try {
+                    const res = await fetch(`https://api.demoview.ch/api/summer-festival/order-id/${orderId}`);
+                    const data = await res.json();
+                    if (data.status === "success" && data.valid) {
+                        orderIdError.style.display = "none";
+                    } else {
+                        orderIdError.style.display = "block";
+                        orderIdError.textContent = data.message
+                    }
+                } catch (err) {
+                    console.error("Order check failed", err);
+                    orderIdError.style.display = "block";
+                }
+            });
+
             countries.forEach(country => {
                 const option = document.createElement("div");
                 option.classList.add("dropdown-option");
@@ -916,6 +1236,40 @@
                     e.preventDefault();
                     handleFormSubmit(stallForm, handleStallEnquiry);
                 });
+            }
+
+            const refundForm = document.querySelector("#refundEnquiry .contact-three__form");
+            const refundSubmitBtn = document.getElementById("refundSubmitBtn");
+            const refundBtnText = document.getElementById("refundBtnText");
+            const refundLoader = document.getElementById("refundLoader");
+            const termsCheckbox = document.getElementById("termsCheckbox");
+            const termsError = document.getElementById("termsError");
+
+            if (refundForm) {
+                refundForm.addEventListener("submit", async (e) => {
+                    e.preventDefault();
+
+                    if (!termsCheckbox.checked) {
+                        termsError.style.display = "block";
+                        return;
+                    } else {
+                        termsError.style.display = "none";
+                    }
+
+                    refundLoader.style.display = "block";
+                    refundSubmitBtn.disabled = true;
+                    refundBtnText.textContent = "Submitting... ";
+
+                    try {
+                        await handleFormSubmit(refundForm, handleRefundEnquiry);
+                    } catch (err) {
+                        console.error(err);
+                    } finally {
+                        refundLoader.style.display = "none";
+                        refundSubmitBtn.disabled = false;
+                        refundBtnText.textContent = "Submit";
+                    }
+                })
             }
 
             const preRegForm = document.querySelector('#preRegistration .contact-three__form');

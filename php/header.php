@@ -74,8 +74,9 @@
                         </ul>
                     </div>
 
-                    <a href="/tickets" style="font-size: 28px; color: #000;"><i class='fas fa-ticket-alt'></i></a>
-                    <a href="#" id="zbs-register-widget-btn-mobile" class="thm-btn tickets-btn" data-key="book_now"></a>
+                    <!-- <a href="#" style="font-size: 28px; color: #000;"><i class='fas fa-ticket-alt'></i></a> -->
+                    <!-- <a href="#" id="zbs-register-widget-btn-mobile" class="thm-btn tickets-btn" data-key="book_now"></a> -->
+                    <!-- <a href="#" class="thm-btn tickets-btn" data-key="book_now"></a> -->
                     <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
                 </div>
             </div>
@@ -107,8 +108,9 @@
 
                         <div class="main-menu-two__right ms-3 pe-3">
                             <div class="main-menu__btn-box-2">
-                                <a href="/tickets" class="thm-btn tickets-btn" data-key="tickets">Tickets</a>
-                                <a href="#" id="zbs-register-widget-btn-desktop" class="thm-btn tickets-btn" data-key="book_now"></a>
+                                <!-- <a href="#" class="thm-btn tickets-btn" data-key="tickets">Tickets</a> -->
+                                <!-- <a href="#" id="zbs-register-widget-btn-desktop" class="thm-btn tickets-btn" data-key="book_now"></a> -->
+                                <!-- <a href="#" class="thm-btn tickets-btn" data-key="book_now"></a> -->
                             </div>
                             <a href="#" class="mobile-nav__toggler px-3"><i class="fa fa-bars"></i></a>
                         </div>
