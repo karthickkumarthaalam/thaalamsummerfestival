@@ -177,7 +177,7 @@
                 return;
             }
 
-            fetch(`https://api.demoview.ch/summer-festival/api/news/${id}`)
+            fetch(`https://api.thaalam.ch/summer-festival/api/news/${id}`)
                 .then(res => res.json())
                 .then(data => {
                     const news = data.news; // correct: use data.data based on your API structure
@@ -191,7 +191,7 @@
                     const topImg = document.querySelector(".event-details__top-img img");
                     if (topImg) {
                         topImg.src = news.image ?
-                            `https://api.demoview.ch/summer-festival/api/${news.image.replace(/\\/g, "/")}` :
+                            `https://api.thaalam.ch/summer-festival/api/${news.image.replace(/\\/g, "/")}` :
                             "assets/img/common/event-img.jpg";
                         topImg.alt = news.title;
                     }
@@ -225,7 +225,7 @@
         });
 
         function fetchRelatedNews(author, category, excludeId) {
-            fetch(`https://api.demoview.ch/summer-festival/api/news?author=${author}&exclude=${excludeId}&limit=3`)
+            fetch(`https://api.thaalam.ch/summer-festival/api/news?author=${author}&exclude=${excludeId}&limit=3`)
                 .then(res => res.json())
                 .then(result => {
                     const relatedContainer = document.getElementById("relatedNewsContainer");
@@ -263,7 +263,7 @@
           <div class="item">
             <div class="event-one__single">
               <div class="event-one__img">
-                <img src="${item.image ? 'https://api.demoview.ch/summer-festival/api/' + item.image.replace(/\\/g, "/") : 'assets/img/common/event-img.jpg'}" alt="">
+                <img src="${item.image ? 'https://api.thaalam.ch/summer-festival/api/' + item.image.replace(/\\/g, "/") : 'assets/img/common/event-img.jpg'}" alt="">
                 <div class="event-one__date">
                   ${dateHtml}
                 </div>

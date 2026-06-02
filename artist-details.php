@@ -113,7 +113,7 @@
             const artistId = getArtistIdFromUrl();
             if (!artistId) return;
 
-            fetch(`https://api.demoview.ch/summer-festival/api/artist/${artistId}`)
+            fetch(`https://api.thaalam.ch/summer-festival/api/artist/${artistId}`)
                 .then(res => res.json())
                 .then(result => {
                     const artist = result.artist;
@@ -123,7 +123,7 @@
                           <div class="artist-details-wrapper">
                             <div class="wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
                             <div class="about-three__img-one">
-                              <img src="https://api.demoview.ch/summer-festival/api/${artist?.image}" alt="${artist.artist_name}" />
+                              <img src="https://api.thaalam.ch/summer-festival/api/${artist?.image}" alt="${artist.artist_name}" />
                             </div>  
                             </div>
                             <div class="artist-info">

@@ -182,7 +182,7 @@
 
             function fetchNews(page) {
                 const language = getLanguage();
-                fetch(`https://api.demoview.ch/summer-festival/api/news?page=${page}&limit=${limit}&status=active&langugae=${language}`)
+                fetch(`https://api.thaalam.ch/summer-festival/api/news?page=${page}&limit=${limit}&status=active&langugae=${language}`)
                     .then(res => res.json())
                     .then(result => {
                         const newsContainer = document.getElementById("newsContainer");
@@ -216,7 +216,7 @@
 
                             newsItem.innerHTML = `
                             <div class="news-item d-flex align-items-center mbl-drt-col">
-                                <img src="${item.image ? 'https://api.demoview.ch/summer-festival/api/' + item.image.replace(/\\/g, "/") : 'assets/img/common/news/default.jpg'}" alt="${item.title}" class="news-image">
+                                <img src="${item.image ? 'https://api.thaalam.ch/summer-festival/api/' + item.image.replace(/\\/g, "/") : 'assets/img/common/news/default.jpg'}" alt="${item.title}" class="news-image">
                                 <div class="news-content">
                                     <h3 class="news-title">${item.title}</h3>
                                     <p class="news-meta">

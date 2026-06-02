@@ -242,8 +242,8 @@
                             <!-- Tab Toggle Buttons -->
                             <div class="tabs-buttons text-center mb-5">
                                 <!-- <button class="tab-btn active" data-target="#preRegistration" data-key="contact_form.pre-registration">Pre-Registration</button> -->
-                                <button class="tab-btn active" data-target="#refundEnquiry" data-key="contact_form.refund_enquiry">Refund Enquiry</button>
-                                <button class="tab-btn" data-target="#ticketEnquiry" data-key="contact_form.ticket_enquiry">Ticket Enquiry</button>
+                                <!-- <button class="tab-btn active" data-target="#refundEnquiry" data-key="contact_form.refund_enquiry">Refund Enquiry</button> -->
+                                <button class="tab-btn active" data-target="#ticketEnquiry" data-key="contact_form.ticket_enquiry">Ticket Enquiry</button>
                                 <button class="tab-btn" data-target="#stallEnquiry" data-key="contact_form.stall_enquiry">Stall Enquiry</button>
                             </div>
 
@@ -314,7 +314,7 @@
                                 </div>
 
                                 <!-- Ticket Enquiry Form -->
-                                <div id="ticketEnquiry" class="tab-pane">
+                                <div id="ticketEnquiry" class="tab-pane active">
                                     <form class="contact-three__form wow fadeInUp" data-wow-delay="100ms" method="post" novalidate>
                                         <div class="row">
                                             <div class="col-xl-6 col-lg-6">
@@ -405,7 +405,7 @@
                                     </form>
                                 </div>
 
-                                <div class="tab-pane active" id="refundEnquiry">
+                                <div class="tab-pane" id="refundEnquiry">
                                     <form class="contact-three__form wow fadeInUp" data-wow-delay="100ms" method="POST" enctype="multipart/form-data" novalidate>
                                         <div class="row">
                                             <!-- Order ID -->
@@ -892,7 +892,7 @@
         ];
 
         const handleTickeEnquiry = (formData) => {
-            return fetch("https://api.demoview.ch/summer-festival/api/enquiry", {
+            return fetch("https://api.thaalam.ch/summer-festival/api/enquiry", {
                 method: "POST",
                 headers: {
                     'Content-Type': "application/json"
@@ -902,7 +902,7 @@
         }
 
         const handleStallEnquiry = (formData) => {
-            return fetch("https://api.demoview.ch/summer-festival/api/stall-enquiry", {
+            return fetch("https://api.thaalam.ch/summer-festival/api/stall-enquiry", {
                 method: "POST",
                 headers: {
                     'Content-Type': 'application/json'
@@ -913,7 +913,7 @@
 
 
         const handlePreRegistration = (formData) => {
-            return fetch("https://api.demoview.ch/summer-festival/api/pre-registration/verify-and-register", {
+            return fetch("https://api.thaalam.ch/summer-festival/api/pre-registration/verify-and-register", {
                 method: "POST",
                 headers: {
                     'Content-Type': "application/json"
@@ -959,7 +959,7 @@
             }
 
 
-            return fetch("https://api.demoview.ch/api/summer-festival", {
+            return fetch("https://api.thaalam.ch/api/summer-festival", {
                 method: "POST",
                 body: formDataObj
             });
@@ -1051,7 +1051,7 @@
             }
 
             try {
-                const response = await fetch("https://api.demoview.ch/summer-festival/api/pre-registration/send-otp", {
+                const response = await fetch("https://api.thaalam.ch/summer-festival/api/pre-registration/send-otp", {
                     method: "POST",
                     headers: {
                         'Content-Type': "application/json"
@@ -1198,7 +1198,7 @@
                     return;
                 }
                 try {
-                    const res = await fetch(`https://api.demoview.ch/api/summer-festival/order-id/${orderId}`);
+                    const res = await fetch(`https://api.thaalam.ch/api/summer-festival/order-id/${orderId}`);
                     const data = await res.json();
                     if (data.status === "success" && data.valid) {
                         orderIdError.style.display = "none";
@@ -1314,7 +1314,7 @@
 
                 if (isContactInfoLoaded) return;
 
-                fetch("https://api.demoview.ch/summer-festival/api/contactus")
+                fetch("https://api.thaalam.ch/summer-festival/api/contactus")
                     .then(response => response.json())
                     .then(result => {
                         const data = result.data;

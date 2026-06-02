@@ -363,7 +363,7 @@
 
         function loadBanners() {
             const language = getLanguage();
-            fetch(`https://api.demoview.ch/summer-festival/api/banner?language=${language}`)
+            fetch(`https://api.thaalam.ch/summer-festival/api/banner?language=${language}`)
                 .then(response => response.json())
                 .then(result => {
                     const banners = result.data.data;
@@ -372,7 +372,7 @@
                             const item = document.createElement("div");
                             item.className = "item";
 
-                            const imageUrl = `https://api.demoview.ch/summer-festival/api/${banner.image}`;
+                            const imageUrl = `https://api.thaalam.ch/summer-festival/api/${banner.image}`;
 
                             item.innerHTML = `
                               <div class="main-slider__bg">
@@ -413,7 +413,7 @@
 
         function fetchArtist() {
             const language = getLanguage();
-            fetch(`https://api.demoview.ch/summer-festival/api/artist?status=active&language=${language}`)
+            fetch(`https://api.thaalam.ch/summer-festival/api/artist?status=active&language=${language}`)
                 .then(response => response.json())
                 .then(result => {
                     const aritstList = result?.data?.data;
@@ -429,7 +429,7 @@
                         artistItem.innerHTML = `
                             <div class="team-two__single">
                                 <div class="team-two__img-1">    
-                                    <img src="https://api.demoview.ch/summer-festival/api/${artist?.image}" alt="${artist?.artist_name}" />
+                                    <img src="https://api.thaalam.ch/summer-festival/api/${artist?.image}" alt="${artist?.artist_name}" />
                                 </div>
                                 <div class="team-two__arrow">
                                     <a href="/artist-details?id=${artist.id}" target="_blank"><span class="icon-circle-left"></span></a>

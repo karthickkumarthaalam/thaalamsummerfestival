@@ -97,7 +97,7 @@
 
 <script>
   function fetchContactInfo() {
-    fetch("https://api.demoview.ch/summer-festival/api/contactus")
+    fetch("https://api.thaalam.ch/summer-festival/api/contactus")
       .then(response => response.json())
       .then(result => {
         const data = result.data;

@@ -223,7 +223,7 @@
     }
 
     if (marquee) {
-        fetch(`https://api.demoview.ch/summer-festival/api/top-event-offers?status=active&language=${language}`)
+        fetch(`https://api.thaalam.ch/summer-festival/api/top-event-offers?status=active&language=${language}`)
             .then(response => response.json())
             .then(result => {
                 const offers = result.data.data;
